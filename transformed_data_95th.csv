@@ -1,0 +1,1441 @@
+Metric,Select Stack By,Pivot By,And Pivot By,Month,Percentile95
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",External,All,2024-08-01,6.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",External,All,2024-09-01,6.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",External,All,2024-10-01,6.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",External,All,2024-11-01,6.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",External,All,2024-12-01,6.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",External,All,2025-01-01,6.449999999999999
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",External,All,2025-02-01,7.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",External,All,2025-03-01,6.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",External,All,2025-04-01,7.449999999999999
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",External,All,2025-05-01,6.449999999999999
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",External,All,2025-06-01,6.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",External,All,2025-07-01,6.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-08-01,3.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-09-01,3.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-10-01,4.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-11-01,1.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-12-01,1.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-01-01,1.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-02-01,1.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-03-01,2.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-04-01,2.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-05-01,1.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-06-01,1.0
+Count of Linodes,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-07-01,1.0
+Count of Linodes,"BOM1 (Mumbai, IN)",External,All,2024-08-01,
+Count of Linodes,"BOM1 (Mumbai, IN)",External,All,2024-09-01,
+Count of Linodes,"BOM1 (Mumbai, IN)",External,All,2024-10-01,
+Count of Linodes,"BOM1 (Mumbai, IN)",External,All,2024-11-01,
+Count of Linodes,"BOM1 (Mumbai, IN)",External,All,2024-12-01,
+Count of Linodes,"BOM1 (Mumbai, IN)",External,All,2025-01-01,1.0
+Count of Linodes,"BOM1 (Mumbai, IN)",External,All,2025-02-01,3.0
+Count of Linodes,"BOM1 (Mumbai, IN)",External,All,2025-03-01,63.0
+Count of Linodes,"BOM1 (Mumbai, IN)",External,All,2025-04-01,55.45
+Count of Linodes,"BOM1 (Mumbai, IN)",External,All,2025-05-01,49.45
+Count of Linodes,"BOM1 (Mumbai, IN)",External,All,2025-06-01,52.45
+Count of Linodes,"BOM1 (Mumbai, IN)",External,All,2025-07-01,61.0
+Count of Linodes,"BOM1 (Mumbai, IN)",Internal,All,2024-08-01,
+Count of Linodes,"BOM1 (Mumbai, IN)",Internal,All,2024-09-01,
+Count of Linodes,"BOM1 (Mumbai, IN)",Internal,All,2024-10-01,
+Count of Linodes,"BOM1 (Mumbai, IN)",Internal,All,2024-11-01,
+Count of Linodes,"BOM1 (Mumbai, IN)",Internal,All,2024-12-01,
+Count of Linodes,"BOM1 (Mumbai, IN)",Internal,All,2025-01-01,
+Count of Linodes,"BOM1 (Mumbai, IN)",Internal,All,2025-02-01,1.0
+Count of Linodes,"BOM1 (Mumbai, IN)",Internal,All,2025-03-01,1.0
+Count of Linodes,"BOM1 (Mumbai, IN)",Internal,All,2025-04-01,1.0
+Count of Linodes,"BOM1 (Mumbai, IN)",Internal,All,2025-05-01,2.0
+Count of Linodes,"BOM1 (Mumbai, IN)",Internal,All,2025-06-01,3.0
+Count of Linodes,"BOM1 (Mumbai, IN)",Internal,All,2025-07-01,5.0
+Count of Linodes,"FRA4 (Frankfurt, DE)",External,All,2024-08-01,
+Count of Linodes,"FRA4 (Frankfurt, DE)",External,All,2024-09-01,
+Count of Linodes,"FRA4 (Frankfurt, DE)",External,All,2024-10-01,
+Count of Linodes,"FRA4 (Frankfurt, DE)",External,All,2024-11-01,120.0
+Count of Linodes,"FRA4 (Frankfurt, DE)",External,All,2024-12-01,3.0
+Count of Linodes,"FRA4 (Frankfurt, DE)",External,All,2025-01-01,4.0
+Count of Linodes,"FRA4 (Frankfurt, DE)",External,All,2025-02-01,54.0
+Count of Linodes,"FRA4 (Frankfurt, DE)",External,All,2025-03-01,129.0
+Count of Linodes,"FRA4 (Frankfurt, DE)",External,All,2025-04-01,116.79999999999998
+Count of Linodes,"FRA4 (Frankfurt, DE)",External,All,2025-05-01,100.0
+Count of Linodes,"FRA4 (Frankfurt, DE)",External,All,2025-06-01,107.9
+Count of Linodes,"FRA4 (Frankfurt, DE)",External,All,2025-07-01,115.0
+Count of Linodes,"FRA4 (Frankfurt, DE)",Internal,All,2024-08-01,
+Count of Linodes,"FRA4 (Frankfurt, DE)",Internal,All,2024-09-01,
+Count of Linodes,"FRA4 (Frankfurt, DE)",Internal,All,2024-10-01,
+Count of Linodes,"FRA4 (Frankfurt, DE)",Internal,All,2024-11-01,2.0
+Count of Linodes,"FRA4 (Frankfurt, DE)",Internal,All,2024-12-01,1.0
+Count of Linodes,"FRA4 (Frankfurt, DE)",Internal,All,2025-01-01,1.0
+Count of Linodes,"FRA4 (Frankfurt, DE)",Internal,All,2025-02-01,2.0
+Count of Linodes,"FRA4 (Frankfurt, DE)",Internal,All,2025-03-01,6.0
+Count of Linodes,"FRA4 (Frankfurt, DE)",Internal,All,2025-04-01,9.0
+Count of Linodes,"FRA4 (Frankfurt, DE)",Internal,All,2025-05-01,7.0
+Count of Linodes,"FRA4 (Frankfurt, DE)",Internal,All,2025-06-01,7.0
+Count of Linodes,"FRA4 (Frankfurt, DE)",Internal,All,2025-07-01,9.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",External,All,2024-08-01,7.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",External,All,2024-09-01,7.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",External,All,2024-10-01,7.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",External,All,2024-11-01,7.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",External,All,2024-12-01,5.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",External,All,2025-01-01,5.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",External,All,2025-02-01,5.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",External,All,2025-03-01,4.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",External,All,2025-04-01,4.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",External,All,2025-05-01,3.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",External,All,2025-06-01,2.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",External,All,2025-07-01,2.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-08-01,5.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-09-01,5.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-10-01,5.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-11-01,4.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-12-01,4.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-01-01,4.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-02-01,6.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-03-01,6.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-04-01,5.449999999999999
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-05-01,4.449999999999999
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-06-01,4.0
+Count of Linodes,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-07-01,5.0
+Count of Linodes,"MUM1 (Mumbai, India)",External,All,2024-08-01,7.0
+Count of Linodes,"MUM1 (Mumbai, India)",External,All,2024-09-01,7.0
+Count of Linodes,"MUM1 (Mumbai, India)",External,All,2024-10-01,6.0
+Count of Linodes,"MUM1 (Mumbai, India)",External,All,2024-11-01,6.0
+Count of Linodes,"MUM1 (Mumbai, India)",External,All,2024-12-01,6.0
+Count of Linodes,"MUM1 (Mumbai, India)",External,All,2025-01-01,5.0
+Count of Linodes,"MUM1 (Mumbai, India)",External,All,2025-02-01,5.0
+Count of Linodes,"MUM1 (Mumbai, India)",External,All,2025-03-01,5.0
+Count of Linodes,"MUM1 (Mumbai, India)",External,All,2025-04-01,5.0
+Count of Linodes,"MUM1 (Mumbai, India)",External,All,2025-05-01,5.0
+Count of Linodes,"MUM1 (Mumbai, India)",External,All,2025-06-01,4.0
+Count of Linodes,"MUM1 (Mumbai, India)",External,All,2025-07-01,4.0
+Count of Linodes,"MUM1 (Mumbai, India)",Internal,All,2024-08-01,6.0
+Count of Linodes,"MUM1 (Mumbai, India)",Internal,All,2024-09-01,6.0
+Count of Linodes,"MUM1 (Mumbai, India)",Internal,All,2024-10-01,6.0
+Count of Linodes,"MUM1 (Mumbai, India)",Internal,All,2024-11-01,5.0
+Count of Linodes,"MUM1 (Mumbai, India)",Internal,All,2024-12-01,4.0
+Count of Linodes,"MUM1 (Mumbai, India)",Internal,All,2025-01-01,4.0
+Count of Linodes,"MUM1 (Mumbai, India)",Internal,All,2025-02-01,4.0
+Count of Linodes,"MUM1 (Mumbai, India)",Internal,All,2025-03-01,4.0
+Count of Linodes,"MUM1 (Mumbai, India)",Internal,All,2025-04-01,4.0
+Count of Linodes,"MUM1 (Mumbai, India)",Internal,All,2025-05-01,4.0
+Count of Linodes,"MUM1 (Mumbai, India)",Internal,All,2025-06-01,4.0
+Count of Linodes,"MUM1 (Mumbai, India)",Internal,All,2025-07-01,4.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",External,All,2024-08-01,7.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",External,All,2024-09-01,7.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",External,All,2024-10-01,6.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",External,All,2024-11-01,6.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",External,All,2024-12-01,7.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",External,All,2025-01-01,6.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",External,All,2025-02-01,5.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",External,All,2025-03-01,6.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",External,All,2025-04-01,7.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",External,All,2025-05-01,6.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",External,All,2025-06-01,4.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",External,All,2025-07-01,5.449999999999999
+Count of Linodes,"NEWARK (Newark, NJ, USA)",Internal,All,2024-08-01,7.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",Internal,All,2024-09-01,7.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",Internal,All,2024-10-01,8.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",Internal,All,2024-11-01,8.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",Internal,All,2024-12-01,8.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",Internal,All,2025-01-01,8.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",Internal,All,2025-02-01,8.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",Internal,All,2025-03-01,8.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",Internal,All,2025-04-01,9.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",Internal,All,2025-05-01,6.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",Internal,All,2025-06-01,5.0
+Count of Linodes,"NEWARK (Newark, NJ, USA)",Internal,All,2025-07-01,7.0
+Count of Linodes,"ORD2 (Chicago, IL, USA)",External,All,2024-08-01,4.0
+Count of Linodes,"ORD2 (Chicago, IL, USA)",External,All,2024-09-01,4.0
+Count of Linodes,"ORD2 (Chicago, IL, USA)",External,All,2024-10-01,6.0
+Count of Linodes,"ORD2 (Chicago, IL, USA)",External,All,2024-11-01,10.0
+Count of Linodes,"ORD2 (Chicago, IL, USA)",External,All,2024-12-01,12.0
+Count of Linodes,"ORD2 (Chicago, IL, USA)",External,All,2025-01-01,13.0
+Count of Linodes,"ORD2 (Chicago, IL, USA)",External,All,2025-02-01,25.249999999999996
+Count of Linodes,"ORD2 (Chicago, IL, USA)",External,All,2025-03-01,77.45
+Count of Linodes,"ORD2 (Chicago, IL, USA)",External,All,2025-04-01,66.0
+Count of Linodes,"ORD2 (Chicago, IL, USA)",External,All,2025-05-01,72.35
+Count of Linodes,"ORD2 (Chicago, IL, USA)",External,All,2025-06-01,87.99999999999999
+Count of Linodes,"ORD2 (Chicago, IL, USA)",External,All,2025-07-01,115.45
+Count of Linodes,"ORD2 (Chicago, IL, USA)",Internal,All,2024-08-01,10.0
+Count of Linodes,"ORD2 (Chicago, IL, USA)",Internal,All,2024-09-01,5.0
+Count of Linodes,"ORD2 (Chicago, IL, USA)",Internal,All,2024-10-01,16.0
+Count of Linodes,"ORD2 (Chicago, IL, USA)",Internal,All,2024-11-01,10.0
+Count of Linodes,"ORD2 (Chicago, IL, USA)",Internal,All,2024-12-01,12.0
+Count of Linodes,"ORD2 (Chicago, IL, USA)",Internal,All,2025-01-01,10.45
+Count of Linodes,"ORD2 (Chicago, IL, USA)",Internal,All,2025-02-01,22.9
+Count of Linodes,"ORD2 (Chicago, IL, USA)",Internal,All,2025-03-01,24.349999999999998
+Count of Linodes,"ORD2 (Chicago, IL, USA)",Internal,All,2025-04-01,64.0
+Count of Linodes,"ORD2 (Chicago, IL, USA)",Internal,All,2025-05-01,76.0
+Count of Linodes,"ORD2 (Chicago, IL, USA)",Internal,All,2025-06-01,67.45
+Count of Linodes,"ORD2 (Chicago, IL, USA)",Internal,All,2025-07-01,75.0
+Count of Linodes,"OSA1 (Osaka, JP)",External,All,2024-08-01,7.0
+Count of Linodes,"OSA1 (Osaka, JP)",External,All,2024-09-01,5.0
+Count of Linodes,"OSA1 (Osaka, JP)",External,All,2024-10-01,4.899999999999999
+Count of Linodes,"OSA1 (Osaka, JP)",External,All,2024-11-01,1.0
+Count of Linodes,"OSA1 (Osaka, JP)",External,All,2024-12-01,
+Count of Linodes,"OSA1 (Osaka, JP)",External,All,2025-01-01,1.0
+Count of Linodes,"OSA1 (Osaka, JP)",External,All,2025-02-01,1.0
+Count of Linodes,"OSA1 (Osaka, JP)",External,All,2025-03-01,4.449999999999999
+Count of Linodes,"OSA1 (Osaka, JP)",External,All,2025-04-01,4.0
+Count of Linodes,"OSA1 (Osaka, JP)",External,All,2025-05-01,6.449999999999999
+Count of Linodes,"OSA1 (Osaka, JP)",External,All,2025-06-01,11.0
+Count of Linodes,"OSA1 (Osaka, JP)",External,All,2025-07-01,9.45
+Count of Linodes,"OSA1 (Osaka, JP)",Internal,All,2024-08-01,1.0
+Count of Linodes,"OSA1 (Osaka, JP)",Internal,All,2024-09-01,4.449999999999999
+Count of Linodes,"OSA1 (Osaka, JP)",Internal,All,2024-10-01,2.0
+Count of Linodes,"OSA1 (Osaka, JP)",Internal,All,2024-11-01,3.0
+Count of Linodes,"OSA1 (Osaka, JP)",Internal,All,2024-12-01,3.0
+Count of Linodes,"OSA1 (Osaka, JP)",Internal,All,2025-01-01,6.0
+Count of Linodes,"OSA1 (Osaka, JP)",Internal,All,2025-02-01,11.0
+Count of Linodes,"OSA1 (Osaka, JP)",Internal,All,2025-03-01,9.45
+Count of Linodes,"OSA1 (Osaka, JP)",Internal,All,2025-04-01,10.0
+Count of Linodes,"OSA1 (Osaka, JP)",Internal,All,2025-05-01,10.0
+Count of Linodes,"OSA1 (Osaka, JP)",Internal,All,2025-06-01,6.0
+Count of Linodes,"OSA1 (Osaka, JP)",Internal,All,2025-07-01,12.0
+Count of Linodes,"PAR3 (Paris, FR)",External,All,2024-08-01,6.0
+Count of Linodes,"PAR3 (Paris, FR)",External,All,2024-09-01,5.449999999999999
+Count of Linodes,"PAR3 (Paris, FR)",External,All,2024-10-01,15.0
+Count of Linodes,"PAR3 (Paris, FR)",External,All,2024-11-01,6.449999999999999
+Count of Linodes,"PAR3 (Paris, FR)",External,All,2024-12-01,11.0
+Count of Linodes,"PAR3 (Paris, FR)",External,All,2025-01-01,9.0
+Count of Linodes,"PAR3 (Paris, FR)",External,All,2025-02-01,17.0
+Count of Linodes,"PAR3 (Paris, FR)",External,All,2025-03-01,18.0
+Count of Linodes,"PAR3 (Paris, FR)",External,All,2025-04-01,30.45
+Count of Linodes,"PAR3 (Paris, FR)",External,All,2025-05-01,29.0
+Count of Linodes,"PAR3 (Paris, FR)",External,All,2025-06-01,42.9
+Count of Linodes,"PAR3 (Paris, FR)",External,All,2025-07-01,47.45
+Count of Linodes,"PAR3 (Paris, FR)",Internal,All,2024-08-01,
+Count of Linodes,"PAR3 (Paris, FR)",Internal,All,2024-09-01,
+Count of Linodes,"PAR3 (Paris, FR)",Internal,All,2024-10-01,1.0
+Count of Linodes,"PAR3 (Paris, FR)",Internal,All,2024-11-01,4.0
+Count of Linodes,"PAR3 (Paris, FR)",Internal,All,2024-12-01,2.0
+Count of Linodes,"PAR3 (Paris, FR)",Internal,All,2025-01-01,2.0
+Count of Linodes,"PAR3 (Paris, FR)",Internal,All,2025-02-01,3.0
+Count of Linodes,"PAR3 (Paris, FR)",Internal,All,2025-03-01,6.0
+Count of Linodes,"PAR3 (Paris, FR)",Internal,All,2025-04-01,11.0
+Count of Linodes,"PAR3 (Paris, FR)",Internal,All,2025-05-01,10.899999999999999
+Count of Linodes,"PAR3 (Paris, FR)",Internal,All,2025-06-01,9.0
+Count of Linodes,"PAR3 (Paris, FR)",Internal,All,2025-07-01,6.899999999999999
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",External,All,2024-08-01,7.0
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",External,All,2024-09-01,6.449999999999999
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",External,All,2024-10-01,6.0
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",External,All,2024-11-01,5.0
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",External,All,2024-12-01,3.4499999999999993
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",External,All,2025-01-01,8.0
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",External,All,2025-02-01,10.0
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",External,All,2025-03-01,11.45
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",External,All,2025-04-01,12.0
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",External,All,2025-05-01,10.0
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",External,All,2025-06-01,10.0
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",External,All,2025-07-01,14.349999999999998
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-08-01,8.0
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-09-01,16.45
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-10-01,10.45
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-11-01,6.0
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-12-01,5.0
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-01-01,8.0
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-02-01,16.9
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-03-01,21.0
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-04-01,48.0
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-05-01,57.0
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-06-01,48.0
+Count of Linodes,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-07-01,48.0
+Count of Linodes,"SIN2 (Singapore, SG)",External,All,2024-08-01,
+Count of Linodes,"SIN2 (Singapore, SG)",External,All,2024-09-01,
+Count of Linodes,"SIN2 (Singapore, SG)",External,All,2024-10-01,
+Count of Linodes,"SIN2 (Singapore, SG)",External,All,2024-11-01,2.0
+Count of Linodes,"SIN2 (Singapore, SG)",External,All,2024-12-01,5.0
+Count of Linodes,"SIN2 (Singapore, SG)",External,All,2025-01-01,6.0
+Count of Linodes,"SIN2 (Singapore, SG)",External,All,2025-02-01,8.0
+Count of Linodes,"SIN2 (Singapore, SG)",External,All,2025-03-01,39.45
+Count of Linodes,"SIN2 (Singapore, SG)",External,All,2025-04-01,39.699999999999996
+Count of Linodes,"SIN2 (Singapore, SG)",External,All,2025-05-01,33.14999999999999
+Count of Linodes,"SIN2 (Singapore, SG)",External,All,2025-06-01,38.349999999999994
+Count of Linodes,"SIN2 (Singapore, SG)",External,All,2025-07-01,39.45
+Count of Linodes,"SIN2 (Singapore, SG)",Internal,All,2024-08-01,
+Count of Linodes,"SIN2 (Singapore, SG)",Internal,All,2024-09-01,
+Count of Linodes,"SIN2 (Singapore, SG)",Internal,All,2024-10-01,2.0
+Count of Linodes,"SIN2 (Singapore, SG)",Internal,All,2024-11-01,1.0
+Count of Linodes,"SIN2 (Singapore, SG)",Internal,All,2024-12-01,1.0
+Count of Linodes,"SIN2 (Singapore, SG)",Internal,All,2025-01-01,
+Count of Linodes,"SIN2 (Singapore, SG)",Internal,All,2025-02-01,1.0
+Count of Linodes,"SIN2 (Singapore, SG)",Internal,All,2025-03-01,2.4499999999999993
+Count of Linodes,"SIN2 (Singapore, SG)",Internal,All,2025-04-01,2.0
+Count of Linodes,"SIN2 (Singapore, SG)",Internal,All,2025-05-01,3.0
+Count of Linodes,"SIN2 (Singapore, SG)",Internal,All,2025-06-01,4.0
+Count of Linodes,"SIN2 (Singapore, SG)",Internal,All,2025-07-01,5.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",External,All,2024-08-01,5.449999999999999
+Count of Linodes,"SINGAPORE (Singapore, SG)",External,All,2024-09-01,4.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",External,All,2024-10-01,5.449999999999999
+Count of Linodes,"SINGAPORE (Singapore, SG)",External,All,2024-11-01,5.449999999999999
+Count of Linodes,"SINGAPORE (Singapore, SG)",External,All,2024-12-01,4.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",External,All,2025-01-01,2.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",External,All,2025-02-01,3.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",External,All,2025-03-01,4.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",External,All,2025-04-01,5.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",External,All,2025-05-01,10.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",External,All,2025-06-01,10.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",External,All,2025-07-01,10.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",Internal,All,2024-08-01,
+Count of Linodes,"SINGAPORE (Singapore, SG)",Internal,All,2024-09-01,2.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",Internal,All,2024-10-01,
+Count of Linodes,"SINGAPORE (Singapore, SG)",Internal,All,2024-11-01,1.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",Internal,All,2024-12-01,2.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",Internal,All,2025-01-01,2.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",Internal,All,2025-02-01,3.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",Internal,All,2025-03-01,2.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",Internal,All,2025-04-01,1.4499999999999993
+Count of Linodes,"SINGAPORE (Singapore, SG)",Internal,All,2025-05-01,1.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",Internal,All,2025-06-01,1.0
+Count of Linodes,"SINGAPORE (Singapore, SG)",Internal,All,2025-07-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",External,All,2024-08-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",External,All,2024-09-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",External,All,2024-10-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",External,All,2024-11-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",External,All,2024-12-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",External,All,2025-01-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",External,All,2025-02-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",External,All,2025-03-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",External,All,2025-04-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",External,All,2025-05-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",External,All,2025-06-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",External,All,2025-07-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-08-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-09-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-10-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-11-01,0.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-12-01,0.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-01-01,0.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-02-01,0.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-03-01,0.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-04-01,1.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-05-01,0.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-06-01,0.0
+Host Equivalents,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-07-01,0.0
+Host Equivalents,"BOM1 (Mumbai, IN)",External,All,2024-08-01,
+Host Equivalents,"BOM1 (Mumbai, IN)",External,All,2024-09-01,
+Host Equivalents,"BOM1 (Mumbai, IN)",External,All,2024-10-01,
+Host Equivalents,"BOM1 (Mumbai, IN)",External,All,2024-11-01,
+Host Equivalents,"BOM1 (Mumbai, IN)",External,All,2024-12-01,
+Host Equivalents,"BOM1 (Mumbai, IN)",External,All,2025-01-01,0.0
+Host Equivalents,"BOM1 (Mumbai, IN)",External,All,2025-02-01,0.0
+Host Equivalents,"BOM1 (Mumbai, IN)",External,All,2025-03-01,8.0
+Host Equivalents,"BOM1 (Mumbai, IN)",External,All,2025-04-01,7.0
+Host Equivalents,"BOM1 (Mumbai, IN)",External,All,2025-05-01,6.0
+Host Equivalents,"BOM1 (Mumbai, IN)",External,All,2025-06-01,7.0
+Host Equivalents,"BOM1 (Mumbai, IN)",External,All,2025-07-01,8.0
+Host Equivalents,"BOM1 (Mumbai, IN)",Internal,All,2024-08-01,
+Host Equivalents,"BOM1 (Mumbai, IN)",Internal,All,2024-09-01,
+Host Equivalents,"BOM1 (Mumbai, IN)",Internal,All,2024-10-01,
+Host Equivalents,"BOM1 (Mumbai, IN)",Internal,All,2024-11-01,
+Host Equivalents,"BOM1 (Mumbai, IN)",Internal,All,2024-12-01,
+Host Equivalents,"BOM1 (Mumbai, IN)",Internal,All,2025-01-01,
+Host Equivalents,"BOM1 (Mumbai, IN)",Internal,All,2025-02-01,0.0
+Host Equivalents,"BOM1 (Mumbai, IN)",Internal,All,2025-03-01,0.0
+Host Equivalents,"BOM1 (Mumbai, IN)",Internal,All,2025-04-01,1.0
+Host Equivalents,"BOM1 (Mumbai, IN)",Internal,All,2025-05-01,0.0
+Host Equivalents,"BOM1 (Mumbai, IN)",Internal,All,2025-06-01,1.0
+Host Equivalents,"BOM1 (Mumbai, IN)",Internal,All,2025-07-01,1.0
+Host Equivalents,"FRA4 (Frankfurt, DE)",External,All,2024-08-01,
+Host Equivalents,"FRA4 (Frankfurt, DE)",External,All,2024-09-01,
+Host Equivalents,"FRA4 (Frankfurt, DE)",External,All,2024-10-01,
+Host Equivalents,"FRA4 (Frankfurt, DE)",External,All,2024-11-01,15.0
+Host Equivalents,"FRA4 (Frankfurt, DE)",External,All,2024-12-01,0.0
+Host Equivalents,"FRA4 (Frankfurt, DE)",External,All,2025-01-01,1.0
+Host Equivalents,"FRA4 (Frankfurt, DE)",External,All,2025-02-01,25.0
+Host Equivalents,"FRA4 (Frankfurt, DE)",External,All,2025-03-01,16.0
+Host Equivalents,"FRA4 (Frankfurt, DE)",External,All,2025-04-01,14.349999999999998
+Host Equivalents,"FRA4 (Frankfurt, DE)",External,All,2025-05-01,13.0
+Host Equivalents,"FRA4 (Frankfurt, DE)",External,All,2025-06-01,13.45
+Host Equivalents,"FRA4 (Frankfurt, DE)",External,All,2025-07-01,15.0
+Host Equivalents,"FRA4 (Frankfurt, DE)",Internal,All,2024-08-01,
+Host Equivalents,"FRA4 (Frankfurt, DE)",Internal,All,2024-09-01,
+Host Equivalents,"FRA4 (Frankfurt, DE)",Internal,All,2024-10-01,
+Host Equivalents,"FRA4 (Frankfurt, DE)",Internal,All,2024-11-01,0.0
+Host Equivalents,"FRA4 (Frankfurt, DE)",Internal,All,2024-12-01,0.0
+Host Equivalents,"FRA4 (Frankfurt, DE)",Internal,All,2025-01-01,0.0
+Host Equivalents,"FRA4 (Frankfurt, DE)",Internal,All,2025-02-01,0.0
+Host Equivalents,"FRA4 (Frankfurt, DE)",Internal,All,2025-03-01,2.0
+Host Equivalents,"FRA4 (Frankfurt, DE)",Internal,All,2025-04-01,2.0
+Host Equivalents,"FRA4 (Frankfurt, DE)",Internal,All,2025-05-01,2.0
+Host Equivalents,"FRA4 (Frankfurt, DE)",Internal,All,2025-06-01,2.4499999999999993
+Host Equivalents,"FRA4 (Frankfurt, DE)",Internal,All,2025-07-01,3.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",External,All,2024-08-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",External,All,2024-09-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",External,All,2024-10-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",External,All,2024-11-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",External,All,2024-12-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",External,All,2025-01-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",External,All,2025-02-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",External,All,2025-03-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",External,All,2025-04-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",External,All,2025-05-01,0.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",External,All,2025-06-01,0.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",External,All,2025-07-01,0.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-08-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-09-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-10-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-11-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-12-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-01-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-02-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-03-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-04-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-05-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-06-01,1.0
+Host Equivalents,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-07-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",External,All,2024-08-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",External,All,2024-09-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",External,All,2024-10-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",External,All,2024-11-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",External,All,2024-12-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",External,All,2025-01-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",External,All,2025-02-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",External,All,2025-03-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",External,All,2025-04-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",External,All,2025-05-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",External,All,2025-06-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",External,All,2025-07-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",Internal,All,2024-08-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",Internal,All,2024-09-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",Internal,All,2024-10-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",Internal,All,2024-11-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",Internal,All,2024-12-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",Internal,All,2025-01-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",Internal,All,2025-02-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",Internal,All,2025-03-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",Internal,All,2025-04-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",Internal,All,2025-05-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",Internal,All,2025-06-01,1.0
+Host Equivalents,"MUM1 (Mumbai, India)",Internal,All,2025-07-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",External,All,2024-08-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",External,All,2024-09-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",External,All,2024-10-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",External,All,2024-11-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",External,All,2024-12-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",External,All,2025-01-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",External,All,2025-02-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",External,All,2025-03-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",External,All,2025-04-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",External,All,2025-05-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",External,All,2025-06-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",External,All,2025-07-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",Internal,All,2024-08-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",Internal,All,2024-09-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",Internal,All,2024-10-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",Internal,All,2024-11-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",Internal,All,2024-12-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",Internal,All,2025-01-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",Internal,All,2025-02-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",Internal,All,2025-03-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",Internal,All,2025-04-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",Internal,All,2025-05-01,2.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",Internal,All,2025-06-01,1.0
+Host Equivalents,"NEWARK (Newark, NJ, USA)",Internal,All,2025-07-01,2.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",External,All,2024-08-01,1.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",External,All,2024-09-01,1.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",External,All,2024-10-01,1.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",External,All,2024-11-01,1.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",External,All,2024-12-01,2.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",External,All,2025-01-01,2.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",External,All,2025-02-01,4.899999999999999
+Host Equivalents,"ORD2 (Chicago, IL, USA)",External,All,2025-03-01,10.45
+Host Equivalents,"ORD2 (Chicago, IL, USA)",External,All,2025-04-01,9.45
+Host Equivalents,"ORD2 (Chicago, IL, USA)",External,All,2025-05-01,11.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",External,All,2025-06-01,12.349999999999998
+Host Equivalents,"ORD2 (Chicago, IL, USA)",External,All,2025-07-01,16.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",Internal,All,2024-08-01,1.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",Internal,All,2024-09-01,1.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",Internal,All,2024-10-01,3.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",Internal,All,2024-11-01,1.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",Internal,All,2024-12-01,2.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",Internal,All,2025-01-01,1.4499999999999993
+Host Equivalents,"ORD2 (Chicago, IL, USA)",Internal,All,2025-02-01,4.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",Internal,All,2025-03-01,4.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",Internal,All,2025-04-01,16.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",Internal,All,2025-05-01,14.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",Internal,All,2025-06-01,14.0
+Host Equivalents,"ORD2 (Chicago, IL, USA)",Internal,All,2025-07-01,18.0
+Host Equivalents,"OSA1 (Osaka, JP)",External,All,2024-08-01,2.0
+Host Equivalents,"OSA1 (Osaka, JP)",External,All,2024-09-01,1.0
+Host Equivalents,"OSA1 (Osaka, JP)",External,All,2024-10-01,1.0
+Host Equivalents,"OSA1 (Osaka, JP)",External,All,2024-11-01,0.0
+Host Equivalents,"OSA1 (Osaka, JP)",External,All,2024-12-01,
+Host Equivalents,"OSA1 (Osaka, JP)",External,All,2025-01-01,0.0
+Host Equivalents,"OSA1 (Osaka, JP)",External,All,2025-02-01,0.0
+Host Equivalents,"OSA1 (Osaka, JP)",External,All,2025-03-01,1.0
+Host Equivalents,"OSA1 (Osaka, JP)",External,All,2025-04-01,1.0
+Host Equivalents,"OSA1 (Osaka, JP)",External,All,2025-05-01,1.0
+Host Equivalents,"OSA1 (Osaka, JP)",External,All,2025-06-01,2.0
+Host Equivalents,"OSA1 (Osaka, JP)",External,All,2025-07-01,1.0
+Host Equivalents,"OSA1 (Osaka, JP)",Internal,All,2024-08-01,0.0
+Host Equivalents,"OSA1 (Osaka, JP)",Internal,All,2024-09-01,1.0
+Host Equivalents,"OSA1 (Osaka, JP)",Internal,All,2024-10-01,0.0
+Host Equivalents,"OSA1 (Osaka, JP)",Internal,All,2024-11-01,1.0
+Host Equivalents,"OSA1 (Osaka, JP)",Internal,All,2024-12-01,1.0
+Host Equivalents,"OSA1 (Osaka, JP)",Internal,All,2025-01-01,1.0
+Host Equivalents,"OSA1 (Osaka, JP)",Internal,All,2025-02-01,1.0
+Host Equivalents,"OSA1 (Osaka, JP)",Internal,All,2025-03-01,1.0
+Host Equivalents,"OSA1 (Osaka, JP)",Internal,All,2025-04-01,1.0
+Host Equivalents,"OSA1 (Osaka, JP)",Internal,All,2025-05-01,1.0
+Host Equivalents,"OSA1 (Osaka, JP)",Internal,All,2025-06-01,1.0
+Host Equivalents,"OSA1 (Osaka, JP)",Internal,All,2025-07-01,2.0
+Host Equivalents,"PAR3 (Paris, FR)",External,All,2024-08-01,1.0
+Host Equivalents,"PAR3 (Paris, FR)",External,All,2024-09-01,1.0
+Host Equivalents,"PAR3 (Paris, FR)",External,All,2024-10-01,2.0
+Host Equivalents,"PAR3 (Paris, FR)",External,All,2024-11-01,1.0
+Host Equivalents,"PAR3 (Paris, FR)",External,All,2024-12-01,2.0
+Host Equivalents,"PAR3 (Paris, FR)",External,All,2025-01-01,2.0
+Host Equivalents,"PAR3 (Paris, FR)",External,All,2025-02-01,3.0
+Host Equivalents,"PAR3 (Paris, FR)",External,All,2025-03-01,3.0
+Host Equivalents,"PAR3 (Paris, FR)",External,All,2025-04-01,4.449999999999999
+Host Equivalents,"PAR3 (Paris, FR)",External,All,2025-05-01,4.0
+Host Equivalents,"PAR3 (Paris, FR)",External,All,2025-06-01,5.449999999999999
+Host Equivalents,"PAR3 (Paris, FR)",External,All,2025-07-01,6.0
+Host Equivalents,"PAR3 (Paris, FR)",Internal,All,2024-08-01,
+Host Equivalents,"PAR3 (Paris, FR)",Internal,All,2024-09-01,
+Host Equivalents,"PAR3 (Paris, FR)",Internal,All,2024-10-01,0.0
+Host Equivalents,"PAR3 (Paris, FR)",Internal,All,2024-11-01,1.0
+Host Equivalents,"PAR3 (Paris, FR)",Internal,All,2024-12-01,1.0
+Host Equivalents,"PAR3 (Paris, FR)",Internal,All,2025-01-01,1.0
+Host Equivalents,"PAR3 (Paris, FR)",Internal,All,2025-02-01,1.0
+Host Equivalents,"PAR3 (Paris, FR)",Internal,All,2025-03-01,1.0
+Host Equivalents,"PAR3 (Paris, FR)",Internal,All,2025-04-01,2.0
+Host Equivalents,"PAR3 (Paris, FR)",Internal,All,2025-05-01,2.0
+Host Equivalents,"PAR3 (Paris, FR)",Internal,All,2025-06-01,2.0
+Host Equivalents,"PAR3 (Paris, FR)",Internal,All,2025-07-01,1.4499999999999993
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",External,All,2024-08-01,2.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",External,All,2024-09-01,1.4499999999999993
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",External,All,2024-10-01,1.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",External,All,2024-11-01,1.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",External,All,2024-12-01,0.4499999999999993
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",External,All,2025-01-01,1.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",External,All,2025-02-01,2.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",External,All,2025-03-01,2.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",External,All,2025-04-01,3.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",External,All,2025-05-01,2.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",External,All,2025-06-01,2.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",External,All,2025-07-01,2.4499999999999993
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-08-01,2.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-09-01,3.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-10-01,2.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-11-01,1.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-12-01,1.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-01-01,2.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-02-01,3.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-03-01,3.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-04-01,7.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-05-01,9.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-06-01,9.0
+Host Equivalents,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-07-01,10.0
+Host Equivalents,"SIN2 (Singapore, SG)",External,All,2024-08-01,
+Host Equivalents,"SIN2 (Singapore, SG)",External,All,2024-09-01,
+Host Equivalents,"SIN2 (Singapore, SG)",External,All,2024-10-01,
+Host Equivalents,"SIN2 (Singapore, SG)",External,All,2024-11-01,0.0
+Host Equivalents,"SIN2 (Singapore, SG)",External,All,2024-12-01,1.0
+Host Equivalents,"SIN2 (Singapore, SG)",External,All,2025-01-01,1.0
+Host Equivalents,"SIN2 (Singapore, SG)",External,All,2025-02-01,1.0
+Host Equivalents,"SIN2 (Singapore, SG)",External,All,2025-03-01,5.0
+Host Equivalents,"SIN2 (Singapore, SG)",External,All,2025-04-01,5.449999999999999
+Host Equivalents,"SIN2 (Singapore, SG)",External,All,2025-05-01,5.0
+Host Equivalents,"SIN2 (Singapore, SG)",External,All,2025-06-01,6.449999999999999
+Host Equivalents,"SIN2 (Singapore, SG)",External,All,2025-07-01,8.0
+Host Equivalents,"SIN2 (Singapore, SG)",Internal,All,2024-08-01,
+Host Equivalents,"SIN2 (Singapore, SG)",Internal,All,2024-09-01,
+Host Equivalents,"SIN2 (Singapore, SG)",Internal,All,2024-10-01,0.0
+Host Equivalents,"SIN2 (Singapore, SG)",Internal,All,2024-11-01,0.0
+Host Equivalents,"SIN2 (Singapore, SG)",Internal,All,2024-12-01,0.0
+Host Equivalents,"SIN2 (Singapore, SG)",Internal,All,2025-01-01,
+Host Equivalents,"SIN2 (Singapore, SG)",Internal,All,2025-02-01,0.0
+Host Equivalents,"SIN2 (Singapore, SG)",Internal,All,2025-03-01,0.4499999999999993
+Host Equivalents,"SIN2 (Singapore, SG)",Internal,All,2025-04-01,0.0
+Host Equivalents,"SIN2 (Singapore, SG)",Internal,All,2025-05-01,1.0
+Host Equivalents,"SIN2 (Singapore, SG)",Internal,All,2025-06-01,1.0
+Host Equivalents,"SIN2 (Singapore, SG)",Internal,All,2025-07-01,1.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",External,All,2024-08-01,1.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",External,All,2024-09-01,1.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",External,All,2024-10-01,1.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",External,All,2024-11-01,1.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",External,All,2024-12-01,1.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",External,All,2025-01-01,0.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",External,All,2025-02-01,0.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",External,All,2025-03-01,1.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",External,All,2025-04-01,1.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",External,All,2025-05-01,2.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",External,All,2025-06-01,2.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",External,All,2025-07-01,2.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",Internal,All,2024-08-01,
+Host Equivalents,"SINGAPORE (Singapore, SG)",Internal,All,2024-09-01,0.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",Internal,All,2024-10-01,
+Host Equivalents,"SINGAPORE (Singapore, SG)",Internal,All,2024-11-01,0.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",Internal,All,2024-12-01,0.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",Internal,All,2025-01-01,0.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",Internal,All,2025-02-01,0.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",Internal,All,2025-03-01,0.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",Internal,All,2025-04-01,0.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",Internal,All,2025-05-01,0.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",Internal,All,2025-06-01,0.0
+Host Equivalents,"SINGAPORE (Singapore, SG)",Internal,All,2025-07-01,0.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",External,All,2024-08-01,11.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",External,All,2024-09-01,11.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",External,All,2024-10-01,11.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",External,All,2024-11-01,11.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",External,All,2024-12-01,11.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",External,All,2025-01-01,9.899999999999999
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",External,All,2025-02-01,10.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",External,All,2025-03-01,9.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",External,All,2025-04-01,10.45
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",External,All,2025-05-01,10.45
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",External,All,2025-06-01,9.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",External,All,2025-07-01,9.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-08-01,5.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-09-01,5.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-10-01,6.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-11-01,2.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-12-01,2.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-01-01,2.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-02-01,2.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-03-01,3.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-04-01,4.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-05-01,2.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-06-01,2.0
+Instance GPU,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-07-01,2.0
+Instance GPU,"BOM1 (Mumbai, IN)",External,All,2024-08-01,
+Instance GPU,"BOM1 (Mumbai, IN)",External,All,2024-09-01,
+Instance GPU,"BOM1 (Mumbai, IN)",External,All,2024-10-01,
+Instance GPU,"BOM1 (Mumbai, IN)",External,All,2024-11-01,
+Instance GPU,"BOM1 (Mumbai, IN)",External,All,2024-12-01,
+Instance GPU,"BOM1 (Mumbai, IN)",External,All,2025-01-01,1.0
+Instance GPU,"BOM1 (Mumbai, IN)",External,All,2025-02-01,3.0
+Instance GPU,"BOM1 (Mumbai, IN)",External,All,2025-03-01,63.0
+Instance GPU,"BOM1 (Mumbai, IN)",External,All,2025-04-01,55.45
+Instance GPU,"BOM1 (Mumbai, IN)",External,All,2025-05-01,49.45
+Instance GPU,"BOM1 (Mumbai, IN)",External,All,2025-06-01,52.45
+Instance GPU,"BOM1 (Mumbai, IN)",External,All,2025-07-01,64.0
+Instance GPU,"BOM1 (Mumbai, IN)",Internal,All,2024-08-01,
+Instance GPU,"BOM1 (Mumbai, IN)",Internal,All,2024-09-01,
+Instance GPU,"BOM1 (Mumbai, IN)",Internal,All,2024-10-01,
+Instance GPU,"BOM1 (Mumbai, IN)",Internal,All,2024-11-01,
+Instance GPU,"BOM1 (Mumbai, IN)",Internal,All,2024-12-01,
+Instance GPU,"BOM1 (Mumbai, IN)",Internal,All,2025-01-01,
+Instance GPU,"BOM1 (Mumbai, IN)",Internal,All,2025-02-01,1.0
+Instance GPU,"BOM1 (Mumbai, IN)",Internal,All,2025-03-01,1.0
+Instance GPU,"BOM1 (Mumbai, IN)",Internal,All,2025-04-01,4.0
+Instance GPU,"BOM1 (Mumbai, IN)",Internal,All,2025-05-01,3.0
+Instance GPU,"BOM1 (Mumbai, IN)",Internal,All,2025-06-01,4.0
+Instance GPU,"BOM1 (Mumbai, IN)",Internal,All,2025-07-01,6.0
+Instance GPU,"FRA4 (Frankfurt, DE)",External,All,2024-08-01,
+Instance GPU,"FRA4 (Frankfurt, DE)",External,All,2024-09-01,
+Instance GPU,"FRA4 (Frankfurt, DE)",External,All,2024-10-01,
+Instance GPU,"FRA4 (Frankfurt, DE)",External,All,2024-11-01,120.0
+Instance GPU,"FRA4 (Frankfurt, DE)",External,All,2024-12-01,3.0
+Instance GPU,"FRA4 (Frankfurt, DE)",External,All,2025-01-01,5.0
+Instance GPU,"FRA4 (Frankfurt, DE)",External,All,2025-02-01,198.0
+Instance GPU,"FRA4 (Frankfurt, DE)",External,All,2025-03-01,129.0
+Instance GPU,"FRA4 (Frankfurt, DE)",External,All,2025-04-01,117.79999999999998
+Instance GPU,"FRA4 (Frankfurt, DE)",External,All,2025-05-01,101.0
+Instance GPU,"FRA4 (Frankfurt, DE)",External,All,2025-06-01,107.9
+Instance GPU,"FRA4 (Frankfurt, DE)",External,All,2025-07-01,116.0
+Instance GPU,"FRA4 (Frankfurt, DE)",Internal,All,2024-08-01,
+Instance GPU,"FRA4 (Frankfurt, DE)",Internal,All,2024-09-01,
+Instance GPU,"FRA4 (Frankfurt, DE)",Internal,All,2024-10-01,
+Instance GPU,"FRA4 (Frankfurt, DE)",Internal,All,2024-11-01,2.0
+Instance GPU,"FRA4 (Frankfurt, DE)",Internal,All,2024-12-01,1.0
+Instance GPU,"FRA4 (Frankfurt, DE)",Internal,All,2025-01-01,1.0
+Instance GPU,"FRA4 (Frankfurt, DE)",Internal,All,2025-02-01,2.0
+Instance GPU,"FRA4 (Frankfurt, DE)",Internal,All,2025-03-01,18.0
+Instance GPU,"FRA4 (Frankfurt, DE)",Internal,All,2025-04-01,16.0
+Instance GPU,"FRA4 (Frankfurt, DE)",Internal,All,2025-05-01,16.0
+Instance GPU,"FRA4 (Frankfurt, DE)",Internal,All,2025-06-01,18.699999999999996
+Instance GPU,"FRA4 (Frankfurt, DE)",Internal,All,2025-07-01,24.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",External,All,2024-08-01,8.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",External,All,2024-09-01,8.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",External,All,2024-10-01,8.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",External,All,2024-11-01,8.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",External,All,2024-12-01,6.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",External,All,2025-01-01,8.25
+Instance GPU,"FRANKFURT (Frankfurt, DE)",External,All,2025-02-01,10.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",External,All,2025-03-01,5.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",External,All,2025-04-01,7.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",External,All,2025-05-01,3.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",External,All,2025-06-01,2.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",External,All,2025-07-01,2.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-08-01,7.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-09-01,7.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-10-01,7.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-11-01,6.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-12-01,6.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-01-01,6.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-02-01,7.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-03-01,7.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-04-01,7.449999999999999
+Instance GPU,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-05-01,6.449999999999999
+Instance GPU,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-06-01,6.0
+Instance GPU,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-07-01,7.0
+Instance GPU,"MUM1 (Mumbai, India)",External,All,2024-08-01,10.0
+Instance GPU,"MUM1 (Mumbai, India)",External,All,2024-09-01,10.0
+Instance GPU,"MUM1 (Mumbai, India)",External,All,2024-10-01,9.0
+Instance GPU,"MUM1 (Mumbai, India)",External,All,2024-11-01,9.0
+Instance GPU,"MUM1 (Mumbai, India)",External,All,2024-12-01,9.0
+Instance GPU,"MUM1 (Mumbai, India)",External,All,2025-01-01,8.0
+Instance GPU,"MUM1 (Mumbai, India)",External,All,2025-02-01,8.0
+Instance GPU,"MUM1 (Mumbai, India)",External,All,2025-03-01,8.0
+Instance GPU,"MUM1 (Mumbai, India)",External,All,2025-04-01,8.0
+Instance GPU,"MUM1 (Mumbai, India)",External,All,2025-05-01,5.0
+Instance GPU,"MUM1 (Mumbai, India)",External,All,2025-06-01,4.0
+Instance GPU,"MUM1 (Mumbai, India)",External,All,2025-07-01,4.0
+Instance GPU,"MUM1 (Mumbai, India)",Internal,All,2024-08-01,10.0
+Instance GPU,"MUM1 (Mumbai, India)",Internal,All,2024-09-01,10.0
+Instance GPU,"MUM1 (Mumbai, India)",Internal,All,2024-10-01,10.0
+Instance GPU,"MUM1 (Mumbai, India)",Internal,All,2024-11-01,9.0
+Instance GPU,"MUM1 (Mumbai, India)",Internal,All,2024-12-01,7.0
+Instance GPU,"MUM1 (Mumbai, India)",Internal,All,2025-01-01,7.0
+Instance GPU,"MUM1 (Mumbai, India)",Internal,All,2025-02-01,7.0
+Instance GPU,"MUM1 (Mumbai, India)",Internal,All,2025-03-01,7.0
+Instance GPU,"MUM1 (Mumbai, India)",Internal,All,2025-04-01,7.0
+Instance GPU,"MUM1 (Mumbai, India)",Internal,All,2025-05-01,4.0
+Instance GPU,"MUM1 (Mumbai, India)",Internal,All,2025-06-01,4.0
+Instance GPU,"MUM1 (Mumbai, India)",Internal,All,2025-07-01,4.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",External,All,2024-08-01,9.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",External,All,2024-09-01,9.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",External,All,2024-10-01,8.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",External,All,2024-11-01,8.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",External,All,2024-12-01,8.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",External,All,2025-01-01,8.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",External,All,2025-02-01,6.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",External,All,2025-03-01,8.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",External,All,2025-04-01,8.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",External,All,2025-05-01,7.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",External,All,2025-06-01,4.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",External,All,2025-07-01,5.449999999999999
+Instance GPU,"NEWARK (Newark, NJ, USA)",Internal,All,2024-08-01,8.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",Internal,All,2024-09-01,8.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",Internal,All,2024-10-01,9.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",Internal,All,2024-11-01,9.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",Internal,All,2024-12-01,9.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",Internal,All,2025-01-01,9.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",Internal,All,2025-02-01,9.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",Internal,All,2025-03-01,9.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",Internal,All,2025-04-01,10.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",Internal,All,2025-05-01,12.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",Internal,All,2025-06-01,11.0
+Instance GPU,"NEWARK (Newark, NJ, USA)",Internal,All,2025-07-01,13.0
+Instance GPU,"ORD2 (Chicago, IL, USA)",External,All,2024-08-01,4.0
+Instance GPU,"ORD2 (Chicago, IL, USA)",External,All,2024-09-01,4.0
+Instance GPU,"ORD2 (Chicago, IL, USA)",External,All,2024-10-01,7.0
+Instance GPU,"ORD2 (Chicago, IL, USA)",External,All,2024-11-01,10.0
+Instance GPU,"ORD2 (Chicago, IL, USA)",External,All,2024-12-01,14.45
+Instance GPU,"ORD2 (Chicago, IL, USA)",External,All,2025-01-01,15.45
+Instance GPU,"ORD2 (Chicago, IL, USA)",External,All,2025-02-01,37.54999999999998
+Instance GPU,"ORD2 (Chicago, IL, USA)",External,All,2025-03-01,84.8
+Instance GPU,"ORD2 (Chicago, IL, USA)",External,All,2025-04-01,76.35
+Instance GPU,"ORD2 (Chicago, IL, USA)",External,All,2025-05-01,84.9
+Instance GPU,"ORD2 (Chicago, IL, USA)",External,All,2025-06-01,97.99999999999999
+Instance GPU,"ORD2 (Chicago, IL, USA)",External,All,2025-07-01,129.9
+Instance GPU,"ORD2 (Chicago, IL, USA)",Internal,All,2024-08-01,11.0
+Instance GPU,"ORD2 (Chicago, IL, USA)",Internal,All,2024-09-01,5.0
+Instance GPU,"ORD2 (Chicago, IL, USA)",Internal,All,2024-10-01,26.0
+Instance GPU,"ORD2 (Chicago, IL, USA)",Internal,All,2024-11-01,10.0
+Instance GPU,"ORD2 (Chicago, IL, USA)",Internal,All,2024-12-01,12.0
+Instance GPU,"ORD2 (Chicago, IL, USA)",Internal,All,2025-01-01,11.799999999999997
+Instance GPU,"ORD2 (Chicago, IL, USA)",Internal,All,2025-02-01,33.349999999999994
+Instance GPU,"ORD2 (Chicago, IL, USA)",Internal,All,2025-03-01,32.8
+Instance GPU,"ORD2 (Chicago, IL, USA)",Internal,All,2025-04-01,124.9
+Instance GPU,"ORD2 (Chicago, IL, USA)",Internal,All,2025-05-01,113.0
+Instance GPU,"ORD2 (Chicago, IL, USA)",Internal,All,2025-06-01,114.45
+Instance GPU,"ORD2 (Chicago, IL, USA)",Internal,All,2025-07-01,144.0
+Instance GPU,"OSA1 (Osaka, JP)",External,All,2024-08-01,13.0
+Instance GPU,"OSA1 (Osaka, JP)",External,All,2024-09-01,8.0
+Instance GPU,"OSA1 (Osaka, JP)",External,All,2024-10-01,8.349999999999998
+Instance GPU,"OSA1 (Osaka, JP)",External,All,2024-11-01,1.0
+Instance GPU,"OSA1 (Osaka, JP)",External,All,2024-12-01,
+Instance GPU,"OSA1 (Osaka, JP)",External,All,2025-01-01,1.0
+Instance GPU,"OSA1 (Osaka, JP)",External,All,2025-02-01,1.0
+Instance GPU,"OSA1 (Osaka, JP)",External,All,2025-03-01,4.449999999999999
+Instance GPU,"OSA1 (Osaka, JP)",External,All,2025-04-01,5.349999999999998
+Instance GPU,"OSA1 (Osaka, JP)",External,All,2025-05-01,7.449999999999999
+Instance GPU,"OSA1 (Osaka, JP)",External,All,2025-06-01,12.0
+Instance GPU,"OSA1 (Osaka, JP)",External,All,2025-07-01,10.45
+Instance GPU,"OSA1 (Osaka, JP)",Internal,All,2024-08-01,1.0
+Instance GPU,"OSA1 (Osaka, JP)",Internal,All,2024-09-01,4.449999999999999
+Instance GPU,"OSA1 (Osaka, JP)",Internal,All,2024-10-01,3.0
+Instance GPU,"OSA1 (Osaka, JP)",Internal,All,2024-11-01,4.0
+Instance GPU,"OSA1 (Osaka, JP)",Internal,All,2024-12-01,4.0
+Instance GPU,"OSA1 (Osaka, JP)",Internal,All,2025-01-01,6.0
+Instance GPU,"OSA1 (Osaka, JP)",Internal,All,2025-02-01,11.0
+Instance GPU,"OSA1 (Osaka, JP)",Internal,All,2025-03-01,9.45
+Instance GPU,"OSA1 (Osaka, JP)",Internal,All,2025-04-01,10.0
+Instance GPU,"OSA1 (Osaka, JP)",Internal,All,2025-05-01,11.0
+Instance GPU,"OSA1 (Osaka, JP)",Internal,All,2025-06-01,7.0
+Instance GPU,"OSA1 (Osaka, JP)",Internal,All,2025-07-01,17.0
+Instance GPU,"PAR3 (Paris, FR)",External,All,2024-08-01,7.0
+Instance GPU,"PAR3 (Paris, FR)",External,All,2024-09-01,6.449999999999999
+Instance GPU,"PAR3 (Paris, FR)",External,All,2024-10-01,16.0
+Instance GPU,"PAR3 (Paris, FR)",External,All,2024-11-01,10.45
+Instance GPU,"PAR3 (Paris, FR)",External,All,2024-12-01,18.0
+Instance GPU,"PAR3 (Paris, FR)",External,All,2025-01-01,12.0
+Instance GPU,"PAR3 (Paris, FR)",External,All,2025-02-01,20.0
+Instance GPU,"PAR3 (Paris, FR)",External,All,2025-03-01,21.0
+Instance GPU,"PAR3 (Paris, FR)",External,All,2025-04-01,35.45
+Instance GPU,"PAR3 (Paris, FR)",External,All,2025-05-01,30.0
+Instance GPU,"PAR3 (Paris, FR)",External,All,2025-06-01,43.349999999999994
+Instance GPU,"PAR3 (Paris, FR)",External,All,2025-07-01,49.45
+Instance GPU,"PAR3 (Paris, FR)",Internal,All,2024-08-01,
+Instance GPU,"PAR3 (Paris, FR)",Internal,All,2024-09-01,
+Instance GPU,"PAR3 (Paris, FR)",Internal,All,2024-10-01,1.0
+Instance GPU,"PAR3 (Paris, FR)",Internal,All,2024-11-01,9.0
+Instance GPU,"PAR3 (Paris, FR)",Internal,All,2024-12-01,5.0
+Instance GPU,"PAR3 (Paris, FR)",Internal,All,2025-01-01,5.0
+Instance GPU,"PAR3 (Paris, FR)",Internal,All,2025-02-01,6.0
+Instance GPU,"PAR3 (Paris, FR)",Internal,All,2025-03-01,9.0
+Instance GPU,"PAR3 (Paris, FR)",Internal,All,2025-04-01,17.0
+Instance GPU,"PAR3 (Paris, FR)",Internal,All,2025-05-01,14.349999999999998
+Instance GPU,"PAR3 (Paris, FR)",Internal,All,2025-06-01,13.0
+Instance GPU,"PAR3 (Paris, FR)",Internal,All,2025-07-01,10.899999999999999
+Instance GPU,"SEA1 (Tukwila, WA, USA)",External,All,2024-08-01,16.45
+Instance GPU,"SEA1 (Tukwila, WA, USA)",External,All,2024-09-01,10.799999999999997
+Instance GPU,"SEA1 (Tukwila, WA, USA)",External,All,2024-10-01,9.0
+Instance GPU,"SEA1 (Tukwila, WA, USA)",External,All,2024-11-01,6.0
+Instance GPU,"SEA1 (Tukwila, WA, USA)",External,All,2024-12-01,3.8999999999999986
+Instance GPU,"SEA1 (Tukwila, WA, USA)",External,All,2025-01-01,9.45
+Instance GPU,"SEA1 (Tukwila, WA, USA)",External,All,2025-02-01,12.0
+Instance GPU,"SEA1 (Tukwila, WA, USA)",External,All,2025-03-01,17.0
+Instance GPU,"SEA1 (Tukwila, WA, USA)",External,All,2025-04-01,20.45
+Instance GPU,"SEA1 (Tukwila, WA, USA)",External,All,2025-05-01,17.0
+Instance GPU,"SEA1 (Tukwila, WA, USA)",External,All,2025-06-01,15.0
+Instance GPU,"SEA1 (Tukwila, WA, USA)",External,All,2025-07-01,18.349999999999998
+Instance GPU,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-08-01,16.0
+Instance GPU,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-09-01,24.45
+Instance GPU,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-10-01,17.45
+Instance GPU,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-11-01,11.0
+Instance GPU,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-12-01,9.0
+Instance GPU,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-01-01,12.0
+Instance GPU,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-02-01,22.799999999999997
+Instance GPU,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-03-01,26.0
+Instance GPU,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-04-01,53.0
+Instance GPU,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-05-01,73.45
+Instance GPU,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-06-01,69.45
+Instance GPU,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-07-01,76.45
+Instance GPU,"SIN2 (Singapore, SG)",External,All,2024-08-01,
+Instance GPU,"SIN2 (Singapore, SG)",External,All,2024-09-01,
+Instance GPU,"SIN2 (Singapore, SG)",External,All,2024-10-01,
+Instance GPU,"SIN2 (Singapore, SG)",External,All,2024-11-01,2.0
+Instance GPU,"SIN2 (Singapore, SG)",External,All,2024-12-01,4.0
+Instance GPU,"SIN2 (Singapore, SG)",External,All,2025-01-01,5.0
+Instance GPU,"SIN2 (Singapore, SG)",External,All,2025-02-01,9.0
+Instance GPU,"SIN2 (Singapore, SG)",External,All,2025-03-01,42.45
+Instance GPU,"SIN2 (Singapore, SG)",External,All,2025-04-01,42.699999999999996
+Instance GPU,"SIN2 (Singapore, SG)",External,All,2025-05-01,40.8
+Instance GPU,"SIN2 (Singapore, SG)",External,All,2025-06-01,51.349999999999994
+Instance GPU,"SIN2 (Singapore, SG)",External,All,2025-07-01,60.45
+Instance GPU,"SIN2 (Singapore, SG)",Internal,All,2024-08-01,
+Instance GPU,"SIN2 (Singapore, SG)",Internal,All,2024-09-01,
+Instance GPU,"SIN2 (Singapore, SG)",Internal,All,2024-10-01,2.0
+Instance GPU,"SIN2 (Singapore, SG)",Internal,All,2024-11-01,1.0
+Instance GPU,"SIN2 (Singapore, SG)",Internal,All,2024-12-01,1.0
+Instance GPU,"SIN2 (Singapore, SG)",Internal,All,2025-01-01,
+Instance GPU,"SIN2 (Singapore, SG)",Internal,All,2025-02-01,1.0
+Instance GPU,"SIN2 (Singapore, SG)",Internal,All,2025-03-01,3.4499999999999993
+Instance GPU,"SIN2 (Singapore, SG)",Internal,All,2025-04-01,3.0
+Instance GPU,"SIN2 (Singapore, SG)",Internal,All,2025-05-01,4.0
+Instance GPU,"SIN2 (Singapore, SG)",Internal,All,2025-06-01,4.0
+Instance GPU,"SIN2 (Singapore, SG)",Internal,All,2025-07-01,5.0
+Instance GPU,"SINGAPORE (Singapore, SG)",External,All,2024-08-01,6.0
+Instance GPU,"SINGAPORE (Singapore, SG)",External,All,2024-09-01,5.0
+Instance GPU,"SINGAPORE (Singapore, SG)",External,All,2024-10-01,6.0
+Instance GPU,"SINGAPORE (Singapore, SG)",External,All,2024-11-01,5.449999999999999
+Instance GPU,"SINGAPORE (Singapore, SG)",External,All,2024-12-01,4.0
+Instance GPU,"SINGAPORE (Singapore, SG)",External,All,2025-01-01,2.0
+Instance GPU,"SINGAPORE (Singapore, SG)",External,All,2025-02-01,3.0
+Instance GPU,"SINGAPORE (Singapore, SG)",External,All,2025-03-01,4.0
+Instance GPU,"SINGAPORE (Singapore, SG)",External,All,2025-04-01,5.0
+Instance GPU,"SINGAPORE (Singapore, SG)",External,All,2025-05-01,13.0
+Instance GPU,"SINGAPORE (Singapore, SG)",External,All,2025-06-01,13.0
+Instance GPU,"SINGAPORE (Singapore, SG)",External,All,2025-07-01,13.0
+Instance GPU,"SINGAPORE (Singapore, SG)",Internal,All,2024-08-01,
+Instance GPU,"SINGAPORE (Singapore, SG)",Internal,All,2024-09-01,2.0
+Instance GPU,"SINGAPORE (Singapore, SG)",Internal,All,2024-10-01,
+Instance GPU,"SINGAPORE (Singapore, SG)",Internal,All,2024-11-01,1.0
+Instance GPU,"SINGAPORE (Singapore, SG)",Internal,All,2024-12-01,2.0
+Instance GPU,"SINGAPORE (Singapore, SG)",Internal,All,2025-01-01,2.0
+Instance GPU,"SINGAPORE (Singapore, SG)",Internal,All,2025-02-01,3.0
+Instance GPU,"SINGAPORE (Singapore, SG)",Internal,All,2025-03-01,2.0
+Instance GPU,"SINGAPORE (Singapore, SG)",Internal,All,2025-04-01,1.4499999999999993
+Instance GPU,"SINGAPORE (Singapore, SG)",Internal,All,2025-05-01,1.0
+Instance GPU,"SINGAPORE (Singapore, SG)",Internal,All,2025-06-01,1.0
+Instance GPU,"SINGAPORE (Singapore, SG)",Internal,All,2025-07-01,1.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",External,All,2024-08-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",External,All,2024-09-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",External,All,2024-10-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",External,All,2024-11-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",External,All,2024-12-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",External,All,2025-01-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",External,All,2025-02-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",External,All,2025-03-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",External,All,2025-04-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",External,All,2025-05-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",External,All,2025-06-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",External,All,2025-07-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-08-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-09-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-10-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-11-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-12-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-01-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-02-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-03-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-04-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-05-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-06-01,0.0
+Instance RAM TB,"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-07-01,0.0
+Instance RAM TB,"BOM1 (Mumbai, IN)",External,All,2024-08-01,
+Instance RAM TB,"BOM1 (Mumbai, IN)",External,All,2024-09-01,
+Instance RAM TB,"BOM1 (Mumbai, IN)",External,All,2024-10-01,
+Instance RAM TB,"BOM1 (Mumbai, IN)",External,All,2024-11-01,
+Instance RAM TB,"BOM1 (Mumbai, IN)",External,All,2024-12-01,
+Instance RAM TB,"BOM1 (Mumbai, IN)",External,All,2025-01-01,0.0
+Instance RAM TB,"BOM1 (Mumbai, IN)",External,All,2025-02-01,0.0
+Instance RAM TB,"BOM1 (Mumbai, IN)",External,All,2025-03-01,1.0
+Instance RAM TB,"BOM1 (Mumbai, IN)",External,All,2025-04-01,1.0
+Instance RAM TB,"BOM1 (Mumbai, IN)",External,All,2025-05-01,1.0
+Instance RAM TB,"BOM1 (Mumbai, IN)",External,All,2025-06-01,1.0
+Instance RAM TB,"BOM1 (Mumbai, IN)",External,All,2025-07-01,1.0
+Instance RAM TB,"BOM1 (Mumbai, IN)",Internal,All,2024-08-01,
+Instance RAM TB,"BOM1 (Mumbai, IN)",Internal,All,2024-09-01,
+Instance RAM TB,"BOM1 (Mumbai, IN)",Internal,All,2024-10-01,
+Instance RAM TB,"BOM1 (Mumbai, IN)",Internal,All,2024-11-01,
+Instance RAM TB,"BOM1 (Mumbai, IN)",Internal,All,2024-12-01,
+Instance RAM TB,"BOM1 (Mumbai, IN)",Internal,All,2025-01-01,
+Instance RAM TB,"BOM1 (Mumbai, IN)",Internal,All,2025-02-01,0.0
+Instance RAM TB,"BOM1 (Mumbai, IN)",Internal,All,2025-03-01,0.0
+Instance RAM TB,"BOM1 (Mumbai, IN)",Internal,All,2025-04-01,0.0
+Instance RAM TB,"BOM1 (Mumbai, IN)",Internal,All,2025-05-01,0.0
+Instance RAM TB,"BOM1 (Mumbai, IN)",Internal,All,2025-06-01,0.0
+Instance RAM TB,"BOM1 (Mumbai, IN)",Internal,All,2025-07-01,0.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",External,All,2024-08-01,
+Instance RAM TB,"FRA4 (Frankfurt, DE)",External,All,2024-09-01,
+Instance RAM TB,"FRA4 (Frankfurt, DE)",External,All,2024-10-01,
+Instance RAM TB,"FRA4 (Frankfurt, DE)",External,All,2024-11-01,2.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",External,All,2024-12-01,0.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",External,All,2025-01-01,0.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",External,All,2025-02-01,9.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",External,All,2025-03-01,2.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",External,All,2025-04-01,2.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",External,All,2025-05-01,2.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",External,All,2025-06-01,2.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",External,All,2025-07-01,2.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",Internal,All,2024-08-01,
+Instance RAM TB,"FRA4 (Frankfurt, DE)",Internal,All,2024-09-01,
+Instance RAM TB,"FRA4 (Frankfurt, DE)",Internal,All,2024-10-01,
+Instance RAM TB,"FRA4 (Frankfurt, DE)",Internal,All,2024-11-01,0.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",Internal,All,2024-12-01,0.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",Internal,All,2025-01-01,0.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",Internal,All,2025-02-01,0.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",Internal,All,2025-03-01,1.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",Internal,All,2025-04-01,0.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",Internal,All,2025-05-01,0.0
+Instance RAM TB,"FRA4 (Frankfurt, DE)",Internal,All,2025-06-01,0.4499999999999993
+Instance RAM TB,"FRA4 (Frankfurt, DE)",Internal,All,2025-07-01,1.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",External,All,2024-08-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",External,All,2024-09-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",External,All,2024-10-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",External,All,2024-11-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",External,All,2024-12-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",External,All,2025-01-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",External,All,2025-02-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",External,All,2025-03-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",External,All,2025-04-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",External,All,2025-05-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",External,All,2025-06-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",External,All,2025-07-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-08-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-09-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-10-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-11-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",Internal,All,2024-12-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-01-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-02-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-03-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-04-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-05-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-06-01,0.0
+Instance RAM TB,"FRANKFURT (Frankfurt, DE)",Internal,All,2025-07-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",External,All,2024-08-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",External,All,2024-09-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",External,All,2024-10-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",External,All,2024-11-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",External,All,2024-12-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",External,All,2025-01-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",External,All,2025-02-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",External,All,2025-03-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",External,All,2025-04-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",External,All,2025-05-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",External,All,2025-06-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",External,All,2025-07-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",Internal,All,2024-08-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",Internal,All,2024-09-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",Internal,All,2024-10-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",Internal,All,2024-11-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",Internal,All,2024-12-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",Internal,All,2025-01-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",Internal,All,2025-02-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",Internal,All,2025-03-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",Internal,All,2025-04-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",Internal,All,2025-05-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",Internal,All,2025-06-01,0.0
+Instance RAM TB,"MUM1 (Mumbai, India)",Internal,All,2025-07-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",External,All,2024-08-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",External,All,2024-09-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",External,All,2024-10-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",External,All,2024-11-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",External,All,2024-12-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",External,All,2025-01-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",External,All,2025-02-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",External,All,2025-03-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",External,All,2025-04-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",External,All,2025-05-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",External,All,2025-06-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",External,All,2025-07-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",Internal,All,2024-08-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",Internal,All,2024-09-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",Internal,All,2024-10-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",Internal,All,2024-11-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",Internal,All,2024-12-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",Internal,All,2025-01-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",Internal,All,2025-02-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",Internal,All,2025-03-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",Internal,All,2025-04-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",Internal,All,2025-05-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",Internal,All,2025-06-01,0.0
+Instance RAM TB,"NEWARK (Newark, NJ, USA)",Internal,All,2025-07-01,0.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",External,All,2024-08-01,0.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",External,All,2024-09-01,0.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",External,All,2024-10-01,0.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",External,All,2024-11-01,0.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",External,All,2024-12-01,0.4499999999999993
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",External,All,2025-01-01,0.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",External,All,2025-02-01,1.4499999999999993
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",External,All,2025-03-01,2.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",External,All,2025-04-01,2.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",External,All,2025-05-01,2.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",External,All,2025-06-01,2.4499999999999993
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",External,All,2025-07-01,3.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",Internal,All,2024-08-01,1.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",Internal,All,2024-09-01,0.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",Internal,All,2024-10-01,1.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",Internal,All,2024-11-01,0.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",Internal,All,2024-12-01,0.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",Internal,All,2025-01-01,0.4499999999999993
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",Internal,All,2025-02-01,1.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",Internal,All,2025-03-01,1.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",Internal,All,2025-04-01,6.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",Internal,All,2025-05-01,6.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",Internal,All,2025-06-01,5.0
+Instance RAM TB,"ORD2 (Chicago, IL, USA)",Internal,All,2025-07-01,6.0
+Instance RAM TB,"OSA1 (Osaka, JP)",External,All,2024-08-01,1.0
+Instance RAM TB,"OSA1 (Osaka, JP)",External,All,2024-09-01,1.0
+Instance RAM TB,"OSA1 (Osaka, JP)",External,All,2024-10-01,0.4499999999999993
+Instance RAM TB,"OSA1 (Osaka, JP)",External,All,2024-11-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",External,All,2024-12-01,
+Instance RAM TB,"OSA1 (Osaka, JP)",External,All,2025-01-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",External,All,2025-02-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",External,All,2025-03-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",External,All,2025-04-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",External,All,2025-05-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",External,All,2025-06-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",External,All,2025-07-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",Internal,All,2024-08-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",Internal,All,2024-09-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",Internal,All,2024-10-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",Internal,All,2024-11-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",Internal,All,2024-12-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",Internal,All,2025-01-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",Internal,All,2025-02-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",Internal,All,2025-03-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",Internal,All,2025-04-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",Internal,All,2025-05-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",Internal,All,2025-06-01,0.0
+Instance RAM TB,"OSA1 (Osaka, JP)",Internal,All,2025-07-01,1.0
+Instance RAM TB,"PAR3 (Paris, FR)",External,All,2024-08-01,0.0
+Instance RAM TB,"PAR3 (Paris, FR)",External,All,2024-09-01,0.0
+Instance RAM TB,"PAR3 (Paris, FR)",External,All,2024-10-01,0.0
+Instance RAM TB,"PAR3 (Paris, FR)",External,All,2024-11-01,0.4499999999999993
+Instance RAM TB,"PAR3 (Paris, FR)",External,All,2024-12-01,1.0
+Instance RAM TB,"PAR3 (Paris, FR)",External,All,2025-01-01,1.0
+Instance RAM TB,"PAR3 (Paris, FR)",External,All,2025-02-01,1.0
+Instance RAM TB,"PAR3 (Paris, FR)",External,All,2025-03-01,1.0
+Instance RAM TB,"PAR3 (Paris, FR)",External,All,2025-04-01,1.0
+Instance RAM TB,"PAR3 (Paris, FR)",External,All,2025-05-01,1.0
+Instance RAM TB,"PAR3 (Paris, FR)",External,All,2025-06-01,1.0
+Instance RAM TB,"PAR3 (Paris, FR)",External,All,2025-07-01,1.0
+Instance RAM TB,"PAR3 (Paris, FR)",Internal,All,2024-08-01,
+Instance RAM TB,"PAR3 (Paris, FR)",Internal,All,2024-09-01,
+Instance RAM TB,"PAR3 (Paris, FR)",Internal,All,2024-10-01,0.0
+Instance RAM TB,"PAR3 (Paris, FR)",Internal,All,2024-11-01,0.0
+Instance RAM TB,"PAR3 (Paris, FR)",Internal,All,2024-12-01,0.0
+Instance RAM TB,"PAR3 (Paris, FR)",Internal,All,2025-01-01,0.0
+Instance RAM TB,"PAR3 (Paris, FR)",Internal,All,2025-02-01,0.0
+Instance RAM TB,"PAR3 (Paris, FR)",Internal,All,2025-03-01,0.0
+Instance RAM TB,"PAR3 (Paris, FR)",Internal,All,2025-04-01,1.0
+Instance RAM TB,"PAR3 (Paris, FR)",Internal,All,2025-05-01,1.0
+Instance RAM TB,"PAR3 (Paris, FR)",Internal,All,2025-06-01,1.0
+Instance RAM TB,"PAR3 (Paris, FR)",Internal,All,2025-07-01,0.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",External,All,2024-08-01,1.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",External,All,2024-09-01,1.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",External,All,2024-10-01,1.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",External,All,2024-11-01,0.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",External,All,2024-12-01,0.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",External,All,2025-01-01,0.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",External,All,2025-02-01,0.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",External,All,2025-03-01,1.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",External,All,2025-04-01,1.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",External,All,2025-05-01,1.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",External,All,2025-06-01,0.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",External,All,2025-07-01,1.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-08-01,1.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-09-01,1.4499999999999993
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-10-01,1.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-11-01,1.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",Internal,All,2024-12-01,1.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-01-01,1.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-02-01,1.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-03-01,1.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-04-01,3.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-05-01,4.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-06-01,4.0
+Instance RAM TB,"SEA1 (Tukwila, WA, USA)",Internal,All,2025-07-01,4.0
+Instance RAM TB,"SIN2 (Singapore, SG)",External,All,2024-08-01,
+Instance RAM TB,"SIN2 (Singapore, SG)",External,All,2024-09-01,
+Instance RAM TB,"SIN2 (Singapore, SG)",External,All,2024-10-01,
+Instance RAM TB,"SIN2 (Singapore, SG)",External,All,2024-11-01,0.0
+Instance RAM TB,"SIN2 (Singapore, SG)",External,All,2024-12-01,0.0
+Instance RAM TB,"SIN2 (Singapore, SG)",External,All,2025-01-01,0.0
+Instance RAM TB,"SIN2 (Singapore, SG)",External,All,2025-02-01,0.0
+Instance RAM TB,"SIN2 (Singapore, SG)",External,All,2025-03-01,1.0
+Instance RAM TB,"SIN2 (Singapore, SG)",External,All,2025-04-01,1.0
+Instance RAM TB,"SIN2 (Singapore, SG)",External,All,2025-05-01,1.0
+Instance RAM TB,"SIN2 (Singapore, SG)",External,All,2025-06-01,1.0
+Instance RAM TB,"SIN2 (Singapore, SG)",External,All,2025-07-01,2.0
+Instance RAM TB,"SIN2 (Singapore, SG)",Internal,All,2024-08-01,
+Instance RAM TB,"SIN2 (Singapore, SG)",Internal,All,2024-09-01,
+Instance RAM TB,"SIN2 (Singapore, SG)",Internal,All,2024-10-01,0.0
+Instance RAM TB,"SIN2 (Singapore, SG)",Internal,All,2024-11-01,0.0
+Instance RAM TB,"SIN2 (Singapore, SG)",Internal,All,2024-12-01,0.0
+Instance RAM TB,"SIN2 (Singapore, SG)",Internal,All,2025-01-01,
+Instance RAM TB,"SIN2 (Singapore, SG)",Internal,All,2025-02-01,0.0
+Instance RAM TB,"SIN2 (Singapore, SG)",Internal,All,2025-03-01,0.0
+Instance RAM TB,"SIN2 (Singapore, SG)",Internal,All,2025-04-01,0.0
+Instance RAM TB,"SIN2 (Singapore, SG)",Internal,All,2025-05-01,0.0
+Instance RAM TB,"SIN2 (Singapore, SG)",Internal,All,2025-06-01,0.0
+Instance RAM TB,"SIN2 (Singapore, SG)",Internal,All,2025-07-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",External,All,2024-08-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",External,All,2024-09-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",External,All,2024-10-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",External,All,2024-11-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",External,All,2024-12-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",External,All,2025-01-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",External,All,2025-02-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",External,All,2025-03-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",External,All,2025-04-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",External,All,2025-05-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",External,All,2025-06-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",External,All,2025-07-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",Internal,All,2024-08-01,
+Instance RAM TB,"SINGAPORE (Singapore, SG)",Internal,All,2024-09-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",Internal,All,2024-10-01,
+Instance RAM TB,"SINGAPORE (Singapore, SG)",Internal,All,2024-11-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",Internal,All,2024-12-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",Internal,All,2025-01-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",Internal,All,2025-02-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",Internal,All,2025-03-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",Internal,All,2025-04-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",Internal,All,2025-05-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",Internal,All,2025-06-01,0.0
+Instance RAM TB,"SINGAPORE (Singapore, SG)",Internal,All,2025-07-01,0.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",External,All,2024-08-01,76.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",External,All,2024-09-01,76.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",External,All,2024-10-01,76.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",External,All,2024-11-01,76.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",External,All,2024-12-01,76.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",External,All,2025-01-01,71.19999999999999
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",External,All,2025-02-01,72.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",External,All,2025-03-01,64.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",External,All,2025-04-01,75.6
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",External,All,2025-05-01,75.6
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",External,All,2025-06-01,64.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",External,All,2025-07-01,64.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-08-01,40.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-09-01,40.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-10-01,48.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-11-01,16.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",Internal,All,2024-12-01,16.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-01-01,16.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-02-01,16.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-03-01,24.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-04-01,32.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-05-01,16.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-06-01,16.0
+Instance vCPU (All / Dedicated),"ATLANTA (Atlanta, GA, USA)",Internal,All,2025-07-01,16.0
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",External,All,2024-08-01,
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",External,All,2024-09-01,
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",External,All,2024-10-01,
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",External,All,2024-11-01,
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",External,All,2024-12-01,
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",External,All,2025-01-01,8.0
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",External,All,2025-02-01,16.0
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",External,All,2025-03-01,263.6
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",External,All,2025-04-01,221.8
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",External,All,2025-05-01,225.8
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",External,All,2025-06-01,225.8
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",External,All,2025-07-01,340.0
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",Internal,All,2024-08-01,
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",Internal,All,2024-09-01,
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",Internal,All,2024-10-01,
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",Internal,All,2024-11-01,
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",Internal,All,2024-12-01,
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",Internal,All,2025-01-01,
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",Internal,All,2025-02-01,8.0
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",Internal,All,2025-03-01,8.0
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",Internal,All,2025-04-01,48.0
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",Internal,All,2025-05-01,20.0
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",Internal,All,2025-06-01,64.0
+Instance vCPU (All / Dedicated),"BOM1 (Mumbai, IN)",Internal,All,2025-07-01,72.0
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",External,All,2024-08-01,
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",External,All,2024-09-01,
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",External,All,2024-10-01,
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",External,All,2024-11-01,480.0
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",External,All,2024-12-01,16.0
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",External,All,2025-01-01,32.0
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",External,All,2025-02-01,98.39999999999998
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",External,All,2025-03-01,545.8
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",External,All,2025-04-01,495.19999999999993
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",External,All,2025-05-01,444.0
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",External,All,2025-06-01,476.6
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",External,All,2025-07-01,528.0
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",Internal,All,2024-08-01,
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",Internal,All,2024-09-01,
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",Internal,All,2024-10-01,
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",Internal,All,2024-11-01,8.0
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",Internal,All,2024-12-01,4.0
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",Internal,All,2025-01-01,4.0
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",Internal,All,2025-02-01,12.0
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",Internal,All,2025-03-01,140.0
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",Internal,All,2025-04-01,112.0
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",Internal,All,2025-05-01,116.0
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",Internal,All,2025-06-01,141.19999999999996
+Instance vCPU (All / Dedicated),"FRA4 (Frankfurt, DE)",Internal,All,2025-07-01,180.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",External,All,2024-08-01,64.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",External,All,2024-09-01,64.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",External,All,2024-10-01,64.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",External,All,2024-11-01,64.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",External,All,2024-12-01,48.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",External,All,2025-01-01,60.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",External,All,2025-02-01,68.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",External,All,2025-03-01,40.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",External,All,2025-04-01,48.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",External,All,2025-05-01,24.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",External,All,2025-06-01,16.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",External,All,2025-07-01,16.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",Internal,All,2024-08-01,56.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",Internal,All,2024-09-01,56.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",Internal,All,2024-10-01,56.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",Internal,All,2024-11-01,48.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",Internal,All,2024-12-01,48.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",Internal,All,2025-01-01,48.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",Internal,All,2025-02-01,58.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",Internal,All,2025-03-01,58.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",Internal,All,2025-04-01,59.599999999999994
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",Internal,All,2025-05-01,51.599999999999994
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",Internal,All,2025-06-01,48.0
+Instance vCPU (All / Dedicated),"FRANKFURT (Frankfurt, DE)",Internal,All,2025-07-01,56.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",External,All,2024-08-01,72.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",External,All,2024-09-01,72.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",External,All,2024-10-01,64.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",External,All,2024-11-01,64.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",External,All,2024-12-01,64.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",External,All,2025-01-01,56.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",External,All,2025-02-01,56.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",External,All,2025-03-01,56.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",External,All,2025-04-01,56.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",External,All,2025-05-01,40.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",External,All,2025-06-01,32.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",External,All,2025-07-01,32.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",Internal,All,2024-08-01,72.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",Internal,All,2024-09-01,72.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",Internal,All,2024-10-01,72.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",Internal,All,2024-11-01,64.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",Internal,All,2024-12-01,48.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",Internal,All,2025-01-01,48.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",Internal,All,2025-02-01,48.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",Internal,All,2025-03-01,48.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",Internal,All,2025-04-01,48.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",Internal,All,2025-05-01,32.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",Internal,All,2025-06-01,32.0
+Instance vCPU (All / Dedicated),"MUM1 (Mumbai, India)",Internal,All,2025-07-01,32.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",External,All,2024-08-01,72.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",External,All,2024-09-01,72.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",External,All,2024-10-01,64.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",External,All,2024-11-01,64.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",External,All,2024-12-01,70.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",External,All,2025-01-01,64.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",External,All,2025-02-01,48.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",External,All,2025-03-01,64.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",External,All,2025-04-01,64.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",External,All,2025-05-01,56.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",External,All,2025-06-01,32.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",External,All,2025-07-01,46.29999999999999
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",Internal,All,2024-08-01,64.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",Internal,All,2024-09-01,64.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",Internal,All,2024-10-01,72.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",Internal,All,2024-11-01,72.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",Internal,All,2024-12-01,72.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",Internal,All,2025-01-01,72.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",Internal,All,2025-02-01,72.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",Internal,All,2025-03-01,72.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",Internal,All,2025-04-01,80.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",Internal,All,2025-05-01,80.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",Internal,All,2025-06-01,72.0
+Instance vCPU (All / Dedicated),"NEWARK (Newark, NJ, USA)",Internal,All,2025-07-01,88.0
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",External,All,2024-08-01,80.0
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",External,All,2024-09-01,80.0
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",External,All,2024-10-01,140.0
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",External,All,2024-11-01,144.0
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",External,All,2024-12-01,140.0
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",External,All,2025-01-01,101.8
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",External,All,2025-02-01,378.79999999999984
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",External,All,2025-03-01,467.2
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",External,All,2025-04-01,477.4
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",External,All,2025-05-01,541.0
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",External,All,2025-06-01,606.8
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",External,All,2025-07-01,755.2
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",Internal,All,2024-08-01,220.0
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",Internal,All,2024-09-01,100.0
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",Internal,All,2024-10-01,376.0
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",Internal,All,2024-11-01,128.0
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",Internal,All,2024-12-01,140.0
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",Internal,All,2025-01-01,138.39999999999998
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",Internal,All,2025-02-01,358.4
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",Internal,All,2025-03-01,374.4
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",Internal,All,2025-04-01,468.0
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",Internal,All,2025-05-01,
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",Internal,All,2025-06-01,
+Instance vCPU (All / Dedicated),"ORD2 (Chicago, IL, USA)",Internal,All,2025-07-01,
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",External,All,2024-08-01,260.0
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",External,All,2024-09-01,160.0
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",External,All,2024-10-01,166.99999999999994
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",External,All,2024-11-01,20.0
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",External,All,2024-12-01,
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",External,All,2025-01-01,4.0
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",External,All,2025-02-01,32.0
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",External,All,2025-03-01,48.0
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",External,All,2025-04-01,67.79999999999997
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",External,All,2025-05-01,83.6
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",External,All,2025-06-01,84.0
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",External,All,2025-07-01,73.8
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",Internal,All,2024-08-01,20.0
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",Internal,All,2024-09-01,88.99999999999999
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",Internal,All,2024-10-01,60.0
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",Internal,All,2024-11-01,76.0
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",Internal,All,2024-12-01,76.0
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",Internal,All,2025-01-01,32.0
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",Internal,All,2025-02-01,88.0
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",Internal,All,2025-03-01,107.19999999999999
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",Internal,All,2025-04-01,84.0
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",Internal,All,2025-05-01,68.0
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",Internal,All,2025-06-01,32.0
+Instance vCPU (All / Dedicated),"OSA1 (Osaka, JP)",Internal,All,2025-07-01,132.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",External,All,2024-08-01,140.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",External,All,2024-09-01,129.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",External,All,2024-10-01,144.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",External,All,2024-11-01,139.6
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",External,All,2024-12-01,254.79999999999998
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",External,All,2025-01-01,152.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",External,All,2025-02-01,212.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",External,All,2025-03-01,228.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",External,All,2025-04-01,277.8
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",External,All,2025-05-01,204.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",External,All,2025-06-01,265.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",External,All,2025-07-01,304.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",Internal,All,2024-08-01,
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",Internal,All,2024-09-01,
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",Internal,All,2024-10-01,4.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",Internal,All,2024-11-01,68.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",Internal,All,2024-12-01,36.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",Internal,All,2025-01-01,36.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",Internal,All,2025-02-01,44.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",Internal,All,2025-03-01,92.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",Internal,All,2025-04-01,164.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",Internal,All,2025-05-01,139.2
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",Internal,All,2025-06-01,128.0
+Instance vCPU (All / Dedicated),"PAR3 (Paris, FR)",Internal,All,2025-07-01,120.0
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",External,All,2024-08-01,329.0
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",External,All,2024-09-01,215.99999999999994
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",External,All,2024-10-01,180.0
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",External,All,2024-11-01,72.0
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",External,All,2024-12-01,45.99999999999997
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",External,All,2025-01-01,88.6
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",External,All,2025-02-01,105.0
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",External,All,2025-03-01,167.6
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",External,All,2025-04-01,171.6
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",External,All,2025-05-01,144.0
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",External,All,2025-06-01,120.0
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",External,All,2025-07-01,152.2
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",Internal,All,2024-08-01,308.0
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",Internal,All,2024-09-01,491.5
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",Internal,All,2024-10-01,289.8
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",Internal,All,2024-11-01,188.0
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",Internal,All,2024-12-01,180.0
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",Internal,All,2025-01-01,228.0
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",Internal,All,2025-02-01,346.79999999999995
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",Internal,All,2025-03-01,356.0
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",Internal,All,2025-04-01,788.0
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",Internal,All,2025-05-01,972.0
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",Internal,All,2025-06-01,936.0
+Instance vCPU (All / Dedicated),"SEA1 (Tukwila, WA, USA)",Internal,All,2025-07-01,912.0
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",External,All,2024-08-01,
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",External,All,2024-09-01,
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",External,All,2024-10-01,
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",External,All,2024-11-01,8.0
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",External,All,2024-12-01,28.0
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",External,All,2025-01-01,64.0
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",External,All,2025-02-01,88.0
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",External,All,2025-03-01,245.8
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",External,All,2025-04-01,269.0
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",External,All,2025-05-01,272.0
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",External,All,2025-06-01,357.4
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",External,All,2025-07-01,495.6
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",Internal,All,2024-08-01,
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",Internal,All,2024-09-01,
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",Internal,All,2024-10-01,10.0
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",Internal,All,2024-11-01,4.0
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",Internal,All,2024-12-01,16.0
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",Internal,All,2025-01-01,
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",Internal,All,2025-02-01,8.0
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",Internal,All,2025-03-01,13.799999999999997
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",Internal,All,2025-04-01,12.0
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",Internal,All,2025-05-01,16.0
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",Internal,All,2025-06-01,28.0
+Instance vCPU (All / Dedicated),"SIN2 (Singapore, SG)",Internal,All,2025-07-01,44.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",External,All,2024-08-01,48.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",External,All,2024-09-01,40.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",External,All,2024-10-01,48.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",External,All,2024-11-01,43.599999999999994
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",External,All,2024-12-01,32.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",External,All,2025-01-01,16.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",External,All,2025-02-01,24.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",External,All,2025-03-01,32.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",External,All,2025-04-01,40.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",External,All,2025-05-01,96.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",External,All,2025-06-01,96.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",External,All,2025-07-01,96.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",Internal,All,2024-08-01,
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",Internal,All,2024-09-01,16.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",Internal,All,2024-10-01,
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",Internal,All,2024-11-01,8.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",Internal,All,2024-12-01,16.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",Internal,All,2025-01-01,16.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",Internal,All,2025-02-01,24.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",Internal,All,2025-03-01,16.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",Internal,All,2025-04-01,11.599999999999994
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",Internal,All,2025-05-01,8.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",Internal,All,2025-06-01,8.0
+Instance vCPU (All / Dedicated),"SINGAPORE (Singapore, SG)",Internal,All,2025-07-01,8.0

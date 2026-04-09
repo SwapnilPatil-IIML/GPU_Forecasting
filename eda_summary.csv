@@ -1,0 +1,77 @@
+Level,Group,Metric,Trend,ADF p-value
+Customer Type,External,Host Equivalents,Yes,0.004352151908168266
+Customer Type,External,Instance GPU,Yes,0.00620551796927291
+Customer Type,Internal,Host Equivalents,Yes,0.022918540151668103
+Customer Type,Internal,Instance GPU,Yes,0.027918093203307712
+DC,"ATLANTA (Atlanta, GA, USA)",Host Equivalents,No,0.6699701924729422
+DC,"ATLANTA (Atlanta, GA, USA)",Instance GPU,No,0.748845043869518
+DC,"BOM1 (Mumbai, IN)",Host Equivalents,No,0.41479394409257486
+DC,"BOM1 (Mumbai, IN)",Instance GPU,No,0.45060553641478474
+DC,"FRA4 (Frankfurt, DE)",Host Equivalents,No,0.4425209712431216
+DC,"FRA4 (Frankfurt, DE)",Instance GPU,No,0.4642029206748947
+DC,"FRANKFURT (Frankfurt, DE)",Host Equivalents,No,0.3886658686746088
+DC,"FRANKFURT (Frankfurt, DE)",Instance GPU,No,0.48639297866417597
+DC,"MUM1 (Mumbai, India)",Host Equivalents,No,0.8737741010423613
+DC,"MUM1 (Mumbai, India)",Instance GPU,No,0.2902905925857049
+DC,"NEWARK (Newark, NJ, USA)",Host Equivalents,No,0.7154243136543165
+DC,"NEWARK (Newark, NJ, USA)",Instance GPU,No,0.600963380844137
+DC,"ORD2 (Chicago, IL, USA)",Host Equivalents,No,0.7404792155563739
+DC,"ORD2 (Chicago, IL, USA)",Instance GPU,No,0.7545832645083381
+DC,"OSA1 (Osaka, JP)",Host Equivalents,No,0.4230615579345856
+DC,"OSA1 (Osaka, JP)",Instance GPU,No,0.4851684973676745
+DC,"PAR3 (Paris, FR)",Host Equivalents,No,0.4525079108137064
+DC,"PAR3 (Paris, FR)",Instance GPU,No,0.5223157339672744
+DC,"SEA1 (Tukwila, WA, USA)",Host Equivalents,No,0.9270512777809171
+DC,"SEA1 (Tukwila, WA, USA)",Instance GPU,No,0.9525454962110376
+DC,"SIN2 (Singapore, SG)",Host Equivalents,No,0.35134666834582695
+DC,"SIN2 (Singapore, SG)",Instance GPU,No,0.4175277936536845
+DC,"SINGAPORE (Singapore, SG)",Host Equivalents,No,0.5979177429293131
+DC,"SINGAPORE (Singapore, SG)",Instance GPU,No,0.6581143483753069
+DC + Customer Type,"ATLANTA (Atlanta, GA, USA) - External",Host Equivalents,Constant Series,
+DC + Customer Type,"ATLANTA (Atlanta, GA, USA) - External",Instance GPU,Yes,0.0381479655340154
+DC + Customer Type,"ATLANTA (Atlanta, GA, USA) - Internal",Host Equivalents,No,0.2665682108662229
+DC + Customer Type,"ATLANTA (Atlanta, GA, USA) - Internal",Instance GPU,No,0.05782387193437369
+DC + Customer Type,"BOM1 (Mumbai, IN) - External",Host Equivalents,No,0.273633710016012
+DC + Customer Type,"BOM1 (Mumbai, IN) - External",Instance GPU,No,0.17179209153757652
+DC + Customer Type,"BOM1 (Mumbai, IN) - Internal",Host Equivalents,No,0.33631730850613356
+DC + Customer Type,"BOM1 (Mumbai, IN) - Internal",Instance GPU,No,0.5840166076552971
+DC + Customer Type,"FRA4 (Frankfurt, DE) - External",Host Equivalents,Yes,0.030601060587358175
+DC + Customer Type,"FRA4 (Frankfurt, DE) - External",Instance GPU,Yes,0.029055351096926647
+DC + Customer Type,"FRA4 (Frankfurt, DE) - Internal",Host Equivalents,No,0.7302979973631079
+DC + Customer Type,"FRA4 (Frankfurt, DE) - Internal",Instance GPU,No,0.7372589238372793
+DC + Customer Type,"FRANKFURT (Frankfurt, DE) - External",Host Equivalents,No,0.05093079245639677
+DC + Customer Type,"FRANKFURT (Frankfurt, DE) - External",Instance GPU,No,0.3697233518404338
+DC + Customer Type,"FRANKFURT (Frankfurt, DE) - Internal",Host Equivalents,Constant Series,
+DC + Customer Type,"FRANKFURT (Frankfurt, DE) - Internal",Instance GPU,No,0.5798379649350642
+DC + Customer Type,"MUM1 (Mumbai, India) - External",Host Equivalents,Constant Series,
+DC + Customer Type,"MUM1 (Mumbai, India) - External",Instance GPU,No,0.7283132534065
+DC + Customer Type,"MUM1 (Mumbai, India) - Internal",Host Equivalents,No,0.13267066517920045
+DC + Customer Type,"MUM1 (Mumbai, India) - Internal",Instance GPU,No,0.5337410451842964
+DC + Customer Type,"NEWARK (Newark, NJ, USA) - External",Host Equivalents,Constant Series,
+DC + Customer Type,"NEWARK (Newark, NJ, USA) - External",Instance GPU,No,0.31724377559758354
+DC + Customer Type,"NEWARK (Newark, NJ, USA) - Internal",Host Equivalents,No,0.4485059700364394
+DC + Customer Type,"NEWARK (Newark, NJ, USA) - Internal",Instance GPU,No,0.3703400278751473
+DC + Customer Type,"ORD2 (Chicago, IL, USA) - External",Host Equivalents,No,0.9158649764293432
+DC + Customer Type,"ORD2 (Chicago, IL, USA) - External",Instance GPU,No,0.9717971136738248
+DC + Customer Type,"ORD2 (Chicago, IL, USA) - Internal",Host Equivalents,No,0.49308455426354936
+DC + Customer Type,"ORD2 (Chicago, IL, USA) - Internal",Instance GPU,No,0.48751409052545935
+DC + Customer Type,"OSA1 (Osaka, JP) - External",Host Equivalents,Yes,0.001840377689859173
+DC + Customer Type,"OSA1 (Osaka, JP) - External",Instance GPU,No,0.7731327623376286
+DC + Customer Type,"OSA1 (Osaka, JP) - Internal",Host Equivalents,No,0.8967077748299412
+DC + Customer Type,"OSA1 (Osaka, JP) - Internal",Instance GPU,No,0.5101573856570324
+DC + Customer Type,"PAR3 (Paris, FR) - External",Host Equivalents,No,0.6014422410591549
+DC + Customer Type,"PAR3 (Paris, FR) - External",Instance GPU,No,0.7472097855718962
+DC + Customer Type,"PAR3 (Paris, FR) - Internal",Host Equivalents,No,0.26979491314572307
+DC + Customer Type,"PAR3 (Paris, FR) - Internal",Instance GPU,No,0.18396639146423183
+DC + Customer Type,"SEA1 (Tukwila, WA, USA) - External",Host Equivalents,Yes,1.2673122603802042e-05
+DC + Customer Type,"SEA1 (Tukwila, WA, USA) - External",Instance GPU,No,0.17805896736434407
+DC + Customer Type,"SEA1 (Tukwila, WA, USA) - Internal",Host Equivalents,No,0.570355082294236
+DC + Customer Type,"SEA1 (Tukwila, WA, USA) - Internal",Instance GPU,No,0.592344623433987
+DC + Customer Type,"SIN2 (Singapore, SG) - External",Host Equivalents,No,0.11142875805602065
+DC + Customer Type,"SIN2 (Singapore, SG) - External",Instance GPU,No,0.0759801160639265
+DC + Customer Type,"SIN2 (Singapore, SG) - Internal",Host Equivalents,No,0.18727813931320608
+DC + Customer Type,"SIN2 (Singapore, SG) - Internal",Instance GPU,No,0.40130722291635623
+DC + Customer Type,"SINGAPORE (Singapore, SG) - External",Host Equivalents,No,0.35889246919000045
+DC + Customer Type,"SINGAPORE (Singapore, SG) - External",Instance GPU,No,0.6584137314438345
+DC + Customer Type,"SINGAPORE (Singapore, SG) - Internal",Host Equivalents,Constant Series,
+DC + Customer Type,"SINGAPORE (Singapore, SG) - Internal",Instance GPU,Yes,1.7630507754657845e-15

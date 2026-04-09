@@ -1,0 +1,77 @@
+Level,Group,Metric,Trend,ADF p-value
+Customer Type,External,Host Equivalents,Likely stationary,0.0044
+Customer Type,External,Instance GPU,Likely stationary,0.0062
+Customer Type,Internal,Host Equivalents,Likely stationary,0.0229
+Customer Type,Internal,Instance GPU,Likely stationary,0.0279
+DC,"ATLANTA (Atlanta, GA, USA)",Host Equivalents,Decreasing trend observed,0.67
+DC,"ATLANTA (Atlanta, GA, USA)",Instance GPU,Decreasing trend observed,0.7488
+DC,"BOM1 (Mumbai, IN)",Host Equivalents,Decreasing trend observed,0.4148
+DC,"BOM1 (Mumbai, IN)",Instance GPU,Decreasing trend observed,0.4506
+DC,"FRA4 (Frankfurt, DE)",Host Equivalents,Decreasing trend observed,0.4425
+DC,"FRA4 (Frankfurt, DE)",Instance GPU,Decreasing trend observed,0.4642
+DC,"FRANKFURT (Frankfurt, DE)",Host Equivalents,Increasing trend observed,0.3887
+DC,"FRANKFURT (Frankfurt, DE)",Instance GPU,Increasing trend observed,0.4864
+DC,"MUM1 (Mumbai, India)",Host Equivalents,Decreasing trend observed,0.8738
+DC,"MUM1 (Mumbai, India)",Instance GPU,Decreasing trend observed,0.2903
+DC,"NEWARK (Newark, NJ, USA)",Host Equivalents,Increasing trend observed,0.7154
+DC,"NEWARK (Newark, NJ, USA)",Instance GPU,Increasing trend observed,0.601
+DC,"ORD2 (Chicago, IL, USA)",Host Equivalents,Increasing trend observed,0.7405
+DC,"ORD2 (Chicago, IL, USA)",Instance GPU,Increasing trend observed,0.7546
+DC,"OSA1 (Osaka, JP)",Host Equivalents,Increasing trend observed,0.4231
+DC,"OSA1 (Osaka, JP)",Instance GPU,Increasing trend observed,0.4852
+DC,"PAR3 (Paris, FR)",Host Equivalents,Decreasing trend observed,0.4525
+DC,"PAR3 (Paris, FR)",Instance GPU,Decreasing trend observed,0.5223
+DC,"SEA1 (Tukwila, WA, USA)",Host Equivalents,Increasing trend observed,0.9271
+DC,"SEA1 (Tukwila, WA, USA)",Instance GPU,Increasing trend observed,0.9525
+DC,"SIN2 (Singapore, SG)",Host Equivalents,Decreasing trend observed,0.3513
+DC,"SIN2 (Singapore, SG)",Instance GPU,Decreasing trend observed,0.4175
+DC,"SINGAPORE (Singapore, SG)",Host Equivalents,Decreasing trend observed,0.5979
+DC,"SINGAPORE (Singapore, SG)",Instance GPU,Decreasing trend observed,0.6581
+DC + Customer Type,"ATLANTA (Atlanta, GA, USA) - External",Host Equivalents,Constant Series,N/A
+DC + Customer Type,"ATLANTA (Atlanta, GA, USA) - External",Instance GPU,Likely stationary,0.0381
+DC + Customer Type,"ATLANTA (Atlanta, GA, USA) - Internal",Host Equivalents,Decreasing trend observed,0.2666
+DC + Customer Type,"ATLANTA (Atlanta, GA, USA) - Internal",Instance GPU,Decreasing trend observed,0.0578
+DC + Customer Type,"BOM1 (Mumbai, IN) - External",Host Equivalents,Increasing trend observed,0.2736
+DC + Customer Type,"BOM1 (Mumbai, IN) - External",Instance GPU,Increasing trend observed,0.1718
+DC + Customer Type,"BOM1 (Mumbai, IN) - Internal",Host Equivalents,Increasing trend observed,0.3363
+DC + Customer Type,"BOM1 (Mumbai, IN) - Internal",Instance GPU,Increasing trend observed,0.584
+DC + Customer Type,"FRA4 (Frankfurt, DE) - External",Host Equivalents,Likely stationary,0.0306
+DC + Customer Type,"FRA4 (Frankfurt, DE) - External",Instance GPU,Likely stationary,0.0291
+DC + Customer Type,"FRA4 (Frankfurt, DE) - Internal",Host Equivalents,Increasing trend observed,0.7303
+DC + Customer Type,"FRA4 (Frankfurt, DE) - Internal",Instance GPU,Increasing trend observed,0.7373
+DC + Customer Type,"FRANKFURT (Frankfurt, DE) - External",Host Equivalents,Decreasing trend observed,0.0509
+DC + Customer Type,"FRANKFURT (Frankfurt, DE) - External",Instance GPU,Decreasing trend observed,0.3697
+DC + Customer Type,"FRANKFURT (Frankfurt, DE) - Internal",Host Equivalents,Constant Series,N/A
+DC + Customer Type,"FRANKFURT (Frankfurt, DE) - Internal",Instance GPU,Decreasing trend observed,0.5798
+DC + Customer Type,"MUM1 (Mumbai, India) - External",Host Equivalents,Constant Series,N/A
+DC + Customer Type,"MUM1 (Mumbai, India) - External",Instance GPU,Decreasing trend observed,0.7283
+DC + Customer Type,"MUM1 (Mumbai, India) - Internal",Host Equivalents,Decreasing trend observed,0.1327
+DC + Customer Type,"MUM1 (Mumbai, India) - Internal",Instance GPU,Decreasing trend observed,0.5337
+DC + Customer Type,"NEWARK (Newark, NJ, USA) - External",Host Equivalents,Constant Series,N/A
+DC + Customer Type,"NEWARK (Newark, NJ, USA) - External",Instance GPU,Decreasing trend observed,0.3172
+DC + Customer Type,"NEWARK (Newark, NJ, USA) - Internal",Host Equivalents,Increasing trend observed,0.4485
+DC + Customer Type,"NEWARK (Newark, NJ, USA) - Internal",Instance GPU,Increasing trend observed,0.3703
+DC + Customer Type,"ORD2 (Chicago, IL, USA) - External",Host Equivalents,Increasing trend observed,0.9159
+DC + Customer Type,"ORD2 (Chicago, IL, USA) - External",Instance GPU,Increasing trend observed,0.9718
+DC + Customer Type,"ORD2 (Chicago, IL, USA) - Internal",Host Equivalents,Increasing trend observed,0.4931
+DC + Customer Type,"ORD2 (Chicago, IL, USA) - Internal",Instance GPU,Increasing trend observed,0.4875
+DC + Customer Type,"OSA1 (Osaka, JP) - External",Host Equivalents,Likely stationary,0.0018
+DC + Customer Type,"OSA1 (Osaka, JP) - External",Instance GPU,Increasing trend observed,0.7731
+DC + Customer Type,"OSA1 (Osaka, JP) - Internal",Host Equivalents,Increasing trend observed,0.8967
+DC + Customer Type,"OSA1 (Osaka, JP) - Internal",Instance GPU,Increasing trend observed,0.5102
+DC + Customer Type,"PAR3 (Paris, FR) - External",Host Equivalents,Increasing trend observed,0.6014
+DC + Customer Type,"PAR3 (Paris, FR) - External",Instance GPU,Increasing trend observed,0.7472
+DC + Customer Type,"PAR3 (Paris, FR) - Internal",Host Equivalents,Decreasing trend observed,0.2698
+DC + Customer Type,"PAR3 (Paris, FR) - Internal",Instance GPU,Increasing trend observed,0.184
+DC + Customer Type,"SEA1 (Tukwila, WA, USA) - External",Host Equivalents,Likely stationary,0.0
+DC + Customer Type,"SEA1 (Tukwila, WA, USA) - External",Instance GPU,Decreasing trend observed,0.1781
+DC + Customer Type,"SEA1 (Tukwila, WA, USA) - Internal",Host Equivalents,Increasing trend observed,0.5704
+DC + Customer Type,"SEA1 (Tukwila, WA, USA) - Internal",Instance GPU,Increasing trend observed,0.5923
+DC + Customer Type,"SIN2 (Singapore, SG) - External",Host Equivalents,Increasing trend observed,0.1114
+DC + Customer Type,"SIN2 (Singapore, SG) - External",Instance GPU,Increasing trend observed,0.076
+DC + Customer Type,"SIN2 (Singapore, SG) - Internal",Host Equivalents,Increasing trend observed,0.1873
+DC + Customer Type,"SIN2 (Singapore, SG) - Internal",Instance GPU,Increasing trend observed,0.4013
+DC + Customer Type,"SINGAPORE (Singapore, SG) - External",Host Equivalents,Increasing trend observed,0.3589
+DC + Customer Type,"SINGAPORE (Singapore, SG) - External",Instance GPU,Increasing trend observed,0.6584
+DC + Customer Type,"SINGAPORE (Singapore, SG) - Internal",Host Equivalents,Constant Series,N/A
+DC + Customer Type,"SINGAPORE (Singapore, SG) - Internal",Instance GPU,Likely stationary,0.0
